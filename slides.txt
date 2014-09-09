@@ -5902,7 +5902,7 @@ Shomâ chan vaght mundid tu hotel? Faghat ye mâh mundim	How long did you stay a
 شیراز شهر شعر و گل و بلبل	Shirâz, shahr-e she'r va gol-o bolbol<br>Chiraz, la ciudad de la poesía, de las rosas y de los ruiseñores
 وقتی که از پاسارگاد گذشتیم به تخت جمشید می رسیم	Vaghti ke az Pâsârgâd gozashtim, be Takht-e Jamshid mi-rasim<br>Una vez hemos pasado Pasagardes, llegamos a Persépolis ("Trono de Jamshid")
 که تا شیراز حدود شصت )شست( کیلومتر فاصله دارد	ke tâ Shirâz hodud-e shast kilometr fâsele dârad<br>que está a una distancia de unos sesenta kilómetros de Chiraz
-همین که از زیر دروازه قرآن ردّ می شویم ...	Hamin ke az zir-e Darvâze Qor'ân radd mi-shavim...<br>En cuanto pasamos bajo la Puerta del Corán...
+همین که از زیر دروازه قرآن ردّ می شویم ...	Hamin ke az zir-e Darvâze Qorân radd mi-shavim...<br>En cuanto pasamos bajo la Puerta del Corán...
 شیراز با خیابانهای فراخ پر از گل و درختان سایه دار جلب نظر می کند	Shirâz bâ khiyâbânhâ-ye farâkh-e por az gol va derakhtân-e sâye-dâr jalb-e nazar mi-konad<br>Chiraz, con sus anchas avenidas llenas de flores y árboles que dan sombra, atrae la mirada
 دیدن میدان ساعت در وسط شهر اجباریست	Didan-e Meydân-e Sâ'at dar vasat-e shahr ejbâri-st<br>Es obligatorio ver la Plaza del Reloj en el centro ("en medio") de la ciudad
 بعد از بازدید از باغ ارم و مسجد وکیل میدانیم که نباید زیارت قبرهای سعدی و حافظ را فراموش کنیم	Ba'd az bâzdid az Bâgh-e Eram va Masjed-e Vakil, mi-dânim ke nabâyad ziyârat-e ghabr-hâ-ye Sa'di va Hâfez râ farâmush konim<br>Después de visitar el Jardín de Eram y la Mezquita del regente, sabemos que no debemos olvidar visitar ("visita peregrinaje") las tumbas de Sadi y Hafez
@@ -7545,3 +7545,16 @@ Saranjām ānhā dastband-e mowredenazar-ešān rā peydā mikonand va ta
 - Сколько дней вы будете в Москве?<br>- Ровно семь дней.	- ¿Cuántos días estará en Moscú?<br>- Siete días justos.
 - Неделю? Это прекрасно. Есть время и поработать и посмотреть город.<br>- К сожалению, времени у меня не так много.	- ¿Una semana? Es estupendo. Hay tiempo para trabajar como para ver la ciudad.<br>- Por desgracia, no tengo tanto tiempo.
 - А какие у вас планы?<br>- В понедельник у меня встреча в университете. Во вторик я делаю доклад.	- ¿Y qué planes tiene Ud.?<br>- El lunes tengo una cita en la universidad. El martes doy una conferencia.
+- А среда, мне кажется, у вас свододный день?<br>- Д среду я свободен, а в четверг я вуду на конференции.	- Pero el miércoles me parece que está libre, ¿no?<br>- El miércoles estoy libre, el jueves, en cambio doy una conferencia.
+- А в пятницу я могу вас пригласить в гости?<br>- С удовольствием! Только вечером.	- Pero el viernes ¿puedo invitarlo a mi casa?<br>- Con mucho gusto. Pero solo por la tarde.
+- Pero el viernes ¿puedo invitarlo a mi casa?<br>- Con mucho gusto. Pero solo por la tarde.	- А в пятницу я могу вас пригласить в гости?<br>- С удовольствием! Только вечером.
+- Не забывайте, в субботу мы едем в Суздаль.<br>- А в воскресенье я уезжаю в Санкт-Петерсбург.	- No olvide que el sábado vamos a Susdal.<br>- Y yo el domingo me voy a San Petersburgo.
+Но в любом слугае мы найдём время посмотреть Москву.	Ent todo caso hallaremos tiempo para ver Moscú.
+Ent todo caso hallaremos tiempo para ver Moscú.	Но в любом слугае мы найдём время посмотреть Москву.
+پیرمردی به یکی از دوستانش گفت: می‌خواهم این پول را بیرون شهر پنهان کنم و بجز تو کسی از محل این سکه‌ ها با خبر نخواهد بود	Un hombre viejo dijo a uno de sus amigos: "Quiero esconder (penhân kardan) este dinero fuera de la ciudad y nadie más que tú será conocedor (bâ khabar) el sitio donde están estas monedas
+بنابراین هردو نفر به حومه شهر رفتند و پول را زیر درختی پنهان کردند	Así pues los dos fueron al límite (houme) de la ciudad y escondieron (penhân kardan) el dinero bajo un árbol
+بعد از چند روز پیرمرد تنها به خستجوی پول رفت، اما از پول نشانی نبود	Tras unos días el viejo fue solo a buscar el dinero, pero no había ni rastro de él
+با خود گفت: هیج کس از جای پول خبر نداشت، مگر آن دوستم. اما اگر از او بپرسم، انکار خواهد کرد که آن را برداشته است	Se dijo a sí mismo: "Nadie conoce el sitio del dinero excepto aquel amigo, pero si le pregunto por él me va a negar (enkâr kardan) que lo ha cogido
+پول زیادی به دست آورده ام و مجبورم آن را در جایی پنهان کنم. اگر فردا همراه من بیایی، آن را همان جا پنهان می‌کنیم	He ganado (be dast âvardan) mucho dinero y debo esconderlo en algún sitio. Si mañana me acompañas, lo esconderemos en el mismo sitio.
+دوست وی طماع بود و، به طمع  به دست آوردن پول بیشتر، پول‌هایی که برداشته بود، نوباره سر جایش زیر درخت کذاشت	El amigo era avaricioso (tamâ') y, por la avaricia (tama') de conseguir más dinero, puso otra vez el dinero en su sitio, debajo del árbol
+روز بعد پیرمرد پولش را همان جا یافت. از طرز رفتار عاقلانه ی خود خوشش آمد و دیگر هیج گاه به آن دوست خود اعتماد نکرد	Al día siguiente el viejo encontró su dinero en el mismo lugar. Quedó encantando con su sabia (âghelâne) forma de actuar (tarz-e raftâr) y nunca más se fió de aquel amigo
