@@ -6177,7 +6177,7 @@ andâze	measure (dimensions)<br>medida (dimensiones)
 تو را به خدا راست میگی؟ بله، شوخی نمی‌کنم	Torâ be Khodâ râst migi?<br>¡Por Dios! ¿Lo dices de verdad? Sí, no bromeo
 قرارمان کی و کجا؟	Gharâremân key va kojâ?<br>¿Cuándo y dónde nos vemos?
 ساعت هفت بعد از ظهر، پای مجسّمهٔ فردوسی	Sâ'at-e haft-e ba'ad zohr, pâ-ye mojassame-ye Ferdowsi<br>A las siete de la tarde, al pie de la estatua de Ferdosi
-موافقم )= چشم(، ولی بد قولی بکنی و سر وقت بیائی ها!	Movâfegham (= chashm) vali bad ghowli nakoni-o sar-e vaght biyâ'i hâ!<br>De acuerdo pero sin falta ("no hagas mala promesa") y llega puntual, ¿vale?
+موافقم )= چشم(، ولی بد قولی نکنی و سر وقت بیائی ها!	Movâfegham (= chashm) vali bad ghowli nakoni-o sar-e vaght biyâ'i hâ!<br>De acuerdo pero sin falta ("no hagas mala promesa") y llega puntual, ¿vale?
 من با کمال میل به تاتر خواهم رفت 	Man bâ kamâl-e meyl be teâtr khâham raft<br>Iré con mucho gusto al teatro
 اگر مایلی با هم میریم	Agar mâyeli bâham mirim<br>Si te apetece vamos juntos
 برنامهٔ فرهنگی امسال بهار از سال گذشته خیلی جالبتر است	Barnâme-ye farhangi-e emsâl bahâr az sâl-e gozashte kheyli jâlebtar ast<br>El programa cultural de esta primavera es mucho más interesante que el del año pasado
@@ -6233,7 +6233,7 @@ Hamin alân	Right away, at once<br>En seguida, ahora mismo
 چه قدر هم از مخموعه‌‌هاش تعریف کرده اند 	Che qadr ham az majmon'e-hâ-sh ta'rif karde-and!<br>¡Cuánto han elogiando las colecciones! [expuestas]
 راستی یادت نرود/نره...	Râsti, yâdat naravad/nare...<br>A propósito, que no se te olvide...
 پس به امید دیدار	Pas be omid-e didâr<br>Entonces hasta pronto ("esperanza de verse")
-نمایشگاه چه هست؟ بیشتر نقّاشی‌های معاصره )است(	Nemâyeshgâh-e che hast? Bishtar naqqâchi-hâ-ye mo'âser-e (ast)<br>¿De qué es la exposición? Sobre todo, (son) pinturas contemporáneas
+نمایشگاه چه هست؟ بیشتر نقّاشی‌های معاصره )است(	Nemâyeshgâh-e che hast? Bishtar naqqâshi-hâ-ye mo'âser-e (ast)<br>¿De qué es la exposición? Sobre todo, (son) pinturas contemporáneas
 پنهان کردن/شدن	penhân kardan/shodan<br><br>to conceal / to hide<br>esconder / esconderse
 tebgh-e, banâ be	according to<br>según, de acuerdo con
 در اثر بارش برف فراوان راههای کوهستانی شمال )!جنوب( و غرب )!شرق( کشور موقّتاً بسته شد	Dar asar-e bâresh-e barf-e farâvân râh-hâ-ye kuhestâni-e shomâl (!jonub) va gharb (!shargh)-e keshvar movvaghatan baste shod<br>Debido a la caída de nieve abundante, los caminos de montaña al norte (!sur) y al oeste (!este) del país están temporalmente bloqueados
@@ -7042,7 +7042,7 @@ Ba'ad az on ki turo didam, khoharam ba man nomaatro dod.<br>Pesh az on ki khüro
 برای انجام این عمل تشریفاتی از قبل به شرح زیر تهیه می‌شد.	Para la realización de este acto ('amal) ritual (tashrifâti) ocurren primero los siguientes (be sharhe zir) preparativos (tahie).
 تو اهل کجا هستی؟<br>من از اسپانیا هستم.	¿De dónde eres?<br>Soy de España.
 ایشون پدر من اند	Es mi padre
-در حالی که خود را ندامت می‌کرد، دست و صورتش را شست، ددان‌هایش را مسواک زد، ریشش را تراشید، سبیلش را مرتّب کرد.	Arrepentido (nedâmat), se lavó la las manos y la cara, se cepilló (mesvâk) los dientes, se afeitó (tarâshid) la barba, se arregló (morattab) el bigote.
+در حالی که خود را ندامت می‌کرد، دست و صورتش را شست، ددان‌هایش را مسواک زد، ریشش را تراشید، سبیلش را مرتّب کرد.	Arrepentido (nedâmat), se lavó las manos y la cara, se cepilló (mesvâk kardan) los dientes, se afeitó (tarâshidan, tarâsh) la barba, se arregló (morattab kardan) el bigote (sebil).
 تو چه کار هستی؟<br>معمار ام.<br>تو چطور؟<br>من وکیل هستم.	¿En qué trabajas?<br>Soy arquitecto (me'mâr).<br>¿Y tú?<br>Yo soy abogado (vakil).
 طبیعت خیلی دوست دارم.	Me gusta mucho la naturaleza (tabi'at).
 "Cámara"<br>به فارسی چی می‌شه؟<br>دوربین عکاسی	¿Cómo se dice "cámara en Persa?<br>Durbin (-e akâsi)
@@ -7142,7 +7142,7 @@ fe'lan	for now<br>por ahora
 - Я думаю, это не легко, но я попробую. Какие у неё глаза?<br>- У неё синие глаза.	- Creo que no es fácil pero lo intentaré. ¿Cómo son sus ojos?<br>- Tiene los ojos azules.
 - ... и чёрные волосы?<br>- Нет, нет! Она блондинка.	- ... ¿y los cabellos negros?<br>- ¡No, no! Es rubia.
 من هم عمه هستم هم خاله هستم	Soy tanto tía paterna como materna
-او کمی از لحاظ چهره شبیه من هم هست	Se me parece un poco en ("en cuanto a" az lahâz-e) la cara
+او کمی از لحاظ چهره شبیه من هم هست	Se me parece un poco en ("en cuanto a", az lahâz-e) la cara
 به من حق بده که از تو بترسم	Yo tenía razón en tenerte miedo
 - Она высокая как ты?<br>- Нет, наоборот - она маленькая, но у неё прескасная фигура.	- ¿Es alta, como tú?<br>- No, al contrario, es pequeña pero tiene un tipo precioso.
 - Кашется, я её видела у тебя. Её зовут Катя.<br>- Правильно! Катя Иванова. Она тебе нравится?	- Me parece que la vi en tu casa. Se llama Katya.<br>- ¡Así es! Katya Ivanova. ¿Te gusta?
@@ -7194,7 +7194,7 @@ Hej gap/kissa nest	No hay problema ("palabra/historia")
 روزی چند نفر معامله‌گر است پیش پادشاهی رفتند و چند اسب برای فروش به وی عرضه کردند	Un día unos tratantes (mo'âmele gar) se presentaron ante el rey (pâdeshâh) y le (be vay) ofrecieron (arzeh) unos caballos (asb) en venta
 همچنین ده سکه اضافه‌تر به فروشندگان داد	Asimismo (hamchenin) dio diez monedas (seke) más (ezâfetar) a los vendedores
 معامله‌گران این پیشنهاد را پذیرفتند	Los negociantes (mo'âmelegar) aceptaron (paziroftand) la propuesta (pishnehâd)
-روزی پادشاه در حال خوشی به وزیرش گفت: فهرستی از اسامی همه‌ی احمق‌ها تهیه کن	Un día en el que el rey estaba alegre dijo a su visir: "Prepara (tahieh kon) una lista (fehrest) con el nombre (asâmi) de todos los estúpidos (ahmagh)"
+روزی پادشاه در حال خوشی به وزیرش گفت: فهرستی از اسامی همه‌ی احمق‌ها تهیه کن	Un día en el que el rey estaba alegre dijo a su visir: "Prepara (tahieh kon) una lista (fehrest) con los nombres (asâmi) de todos los estúpidos (ahmagh)"
 وزیر پاسخ داد: عالی‌جناب، پیش از این تهیه کرده ام	El visir (vazir) respondió (pâsokh dâd): Majestad (âli jenâb), ya la he preparado (tahie karde am)
 - و نفر نخست لیست کیست؟<br>- می‌ترسم که حضرت والا نخستین نفر باشد	- ¿Y quién es el primero (nokhost) de la lista?<br>- Me temo que su Reverenda Alteza (hazrate vâlâ) es el primero
 - چرا این طور فکر می‌کنی؟<br>- بخاطر دادن ده سکه به چند فروشنده بدون<br> هیج ضمانت، بی که بشناسی و بدون اطلاع از جا و محلشان	- ¿Por qué crees eso?<br>- Por dar diez monedas a unos comerciantes sin ninguna garantía (zemânat), sin conocerlos y sin información (etelâ) de su lugar de origen
@@ -7228,14 +7228,14 @@ Nareside be meydun / ghabl az serâhi, bepichin dast-e râst.	Antes de la plaza 
 این اثر آنقدر واقعی می‌نمود که پرندگان به آن نوك می‌زدند	La obra (asar) parecía (nemudan, namâ) tan real (vâghe'i) que los pájaros la picoteaban (nok zadan)
 پس از مشاهده ی این تابلو مردم برای دیدن نمونه هنر نقاش دوم به خانه ی او رفتند	Tras contemplar (moshâhede) el cuadro, la gente fue a casa del segundo pintor para ver la muestra de su arte
 پشت این پرده است، پرده را کنار بزن آن را خواهی دید	Está detras de esta cortina (parde). Apártala (kenâr zadan) y la verás
-اما دستش به دیوار خرد	Pero dio con su mano contra la pared
+اما دستش به دیوار خورد	Pero dio con su mano contra la pared
 فهمید چیزی را که پرده می‌پنداشته، در واقع نقاشی بوده است	Comprendió que que lo que suponía (pendâshtan, pendâr) una cortina, en realidad era una pintura
 تو چنان تصویر کشید که پرندگان را فریب دادی و من چنان کشیدم که نقاش را فریفتم	Tú has pintado tal (chenân) imagen que engañaste (farib dâdan) a los pájaros, yo de tal forma (chenân) que he engañado (fariftan, farib) al pintor
 فکر کنم منظورت این است که می خواهی در یادگیری زبان فارسی پیشرفت کنی	Creo que lo que quieres decir es que quieres progresar (pishraft kardan) en el aprendizaje de la lengua persa
 Pas az bargašt be xāne kam-i esterāhat mikonad va sepas darshā-yaš rā morur mikonad.	Tras su vuelta a casa descansa un poco y después repasa sus lecciones
 Sārā asrhā ma'mulan bā dustān-aš tafrih mikonad.	Sara a menudo se divierte por las tardes con sus amigos.
 Hafte-i yek bār ham be dust-aš, Mehrān, riyāziyāt dars midehad.	Y una vez por semana enseña matemáticas a su amiga Mehran.
-همینکه من این چنین با تو حرف می زنم<br>یک نوع رفتار برخلاف عادت معمول جامعه است	As I talk to you in this way (chonin), it is a way againt (barkhalâf-e) the ordinary rules ("customs", âdat) of our society (jâme'eh) somehow (yek nou')
+همینکه من این چنین با تو حرف می زنم<br>یک نوع رفتار برخلاف عادت معمول جامعه است	As I talk to you in this way (chonin), it is a way againt (barkhalâf-e) the ordinary rules ("customs", âdat) of society (jâme'eh) somehow (yek nou')
 Irān be ma'ni-ye Sarzamin-e Āryāyiyān-ast. Mardom-e Irān az nežād-e āryāyi hastand. Āryāyiyān tirehā-ye moxtalef-i dārand.	Irán significa tierra de los Arios. La gente de Irán son de ascendencia aria. Los Arios tienen diversas tribus.
 Aksariyat-e mardom-e Irān mosalmān-and. Aqalliyathā-ye mazhabi dar Irān aqlab zartošti, masihi va yahudi hastand. 	La mayoría de las gentes de Irán son musulmanes. Las principales minorías religiosas en Irán son los zoroastrianos, los cristianos y los judíos. 
 Haryek az aqvām-e irāni zabān, farhang va ādāb-o rosum-e jāleb-i dārad. Zabān-e rasmi-ye Irān fārsi-st. Fārsi hamān pārsi-st.	Cada uno de los pueblos iraníes tiene lengua, cultura y costumbres interesantes. La lengua oficial de Irán es el farsi. El farsi es lo mismo que el parsi (persa).
@@ -7346,7 +7346,7 @@ Garce senn-i az u gozašte-ast, vali hanuz mitavānad bist kilumetr bedavad.	A
 - Tāksiservis-e Bahār, befarmāyin!<br>- Bebaxšin, ye māšin mixāstam.<br>- Tamannā mikonam. Šomāre-ye ešterāk dārin?<br>- Na moteassefāne.<br>- Besyār xob, kojā tašrif mibarin?	- Servicio de taxi Bahar, a sus órdenes.<br>- Por favor, querría un coche (taxi).<br>- Lo pediré. ¿Tiene número de suscripción?<br>- No, lo siento.<br>- Muy bien, ¿Adónde va?
 Xānum-e Āzari, māšin tā dah daiqe dige miyād xedmat-etun.	Señora Azari, el auto estará a su servicio en diez minutos.
 Dir-i nagozašt, ke rāh-ešān rā gom kardand.	No tardaron mucho en perderse.
-Az mard-i ke āntaraf-e xiyābān istāde bud, ādres-e mahall-i rā porsidand, ke vilā-ye dust-ešān dar ānjā bud. Ān mard rāh rā be ānhā nešān dād. Ānhā az u tašakkor kardand va az masir-i ke u be ānhā gofte bud, raftand va kam-i ba'd be vilā residand.	Preguntaron por la dirección del lugar donde estaba el chalé de sus amigos a un hombre que estaba en la calle. El hombre les indicó el camino. Le dieron las gracias y fueron por la ruta que les había dicho y poco después llegaron al chalé.
+Az mard-i ke āntaraf-e xiyābān istāde bud, ādres-e mahall-i rā porsidand, ke vilā-ye dust-ešān dar ānjā bud. Ān mard rāh rā be ānhā nešān dād. Ānhā az u tašakkor kardand va az masir-i ke u be ānhā gofte bud, raftand va kam-i ba'd be vilā residand.	Preguntaron por la dirección del lugar donde estaba el chalé de sus amigos a un hombre que estaba al otro lado de la calle. El hombre les indicó el camino. Le dieron las gracias y fueron por la ruta que les había dicho y poco después llegaron al chalé.
 - Mixāstam muhā-m-o kutā konam.<br>- Ce model-i barā-tun bezanam?<br>- Lotfan pošt-o baqalā ro hesābi kutā konin, vali jolow ziyād kutā naše.	- Quería cortarme los cabellos.<br>- ¿Qué corte le hago?<br>- Por favor, corte bastante detrás y por los lados, pero que no quede muy corto por delante.
 Mixāyn surat-etun-am eslā konam?	¿Quiere también afeitarse ("mejorar", "corregir") la cara?
 - Sešuār-am bekešam?<br>- Bale, age zahmat-i nist.	- ¿Le paso el secador?<br>- Sí, si no es molestia.
@@ -7400,7 +7400,7 @@ In bāzi barā-ye binandegān-e televiziyon niz mostaqim paxš mišavad.	Es
 Qarār-ast, ke Ferdowsipur, mahbubtarin gozārešgar-e futbāl-e Irān, in bāzi rā gozāreš konad. 	Está previsto que Ferdowsipur, el más famoso comentarista de fútbol de Irán, comente este partido.
 فردی مرکوری هم نژاد من است، در واقع بود	Freddie Mercury también es de mi linaje/raza (nezhâd). En realidad, era.
 وسط هفته ساعت شیش بیدار می‌شم ولی ساعت هفت پا می‌شم	Durante la semana me despierto a las seis pero me levanto a las siete.
-- شب‌ها ساعت چند خوابت می‌بره؟<br>- بستگی داره ولی معمولا ساعت یک<br>	- ¿A qué hora te quedas dormido par la noche?<br>- Depende pero normalmente a la una.
+- شب‌ها ساعت چند خوابت می‌بره؟<br>- بستگی داره ولی معمولا ساعت یک<br>	- ¿A qué hora te quedas dormido por la noche?<br>- Depende, pero normalmente a la una.
 کم آرایش می‌کنم ولی مو‌هام‌ رو حسابی شونه می‌کنم	Me pongo poco maquillaje (ârâyesh) pero me peino (shuneh) bastante el pelo.
 Bord-e in bāzi barā-ye Irān xeyl-i arzešmand-ast. Agar Irān bebāzad, Sāmān divāne mišavad.	Ganar este partido es muy valioso para Irán. Si Irán pierde (bākhtan, bāz), Saman se volverá loco.
 Kāmbiz be u deldāri midehad. U be Sāmān xāternešān mikonad, ke Irān bāzikonān-e bātajrobe-i dārad va tā konun dar zamin-e xod bāzi rā be Kore vāgozār nakarde-ast.	Kambiz lo anima. Le hace notar que Irán tiene jugadores experimentados y hasta ahora no ha perdido un partido con Korea en terreno propio.
@@ -7449,7 +7449,7 @@ Saranjām ānhā dastband-e mowredenazar-ešān rā peydā mikonand va ta
 - А но второе?<br>- Котлеты, пельмени и прочее.	- ¿Y de segundo?<br>- Croquetas, pelmeñi, etc. ("y parecidos")
 - И какое её блюдо вам нравится больше всего?<br>- Бутерброды.	- ¿Y qué plato le gusta más?<br>- Los bocadillos.
 اربابی به خدمتکار خود گفت: اگر صبح هنگام طلوع آفتاب دو کلاغ را باهم دیدی، مرا خبر کن تا آنها را ببینم	El amo (arbâb) dijo a su criado (khedmatkâr): "Si mañana a la salida (tolu') del sol ves dos cuervos (kalâgh) juntos, avísame para que los vea
-این برایم خوش شانسی می‌آورد و این طور روز را به خوش خواهم گذراند	Eo me trae buena suerte y así pasaré el día feliz
+این برایم خوش شانسی می‌آورد و این طور روز را به خوش خواهم گذراند	Eso me trae buena suerte y así pasaré el día feliz
 اتفاقا روز بعد خدمتکار دو کلاغ را یکجا نشسته دید	Casualmente (etefâghan) al día siguiente el criado vio a los dos cuervos (kalâgh) posados juntos (yekjâ)
 به صاحب خود خبر داد، اما وقتی صاحب بیرون آمد، یکی از کلاغ ها پریده بود	Llamó a su amo, pero cuando el amo salió, uno de los cuervos ya había volado
 صاحب عصبانی شد و شروع به زدن خدمتکار کرد. درست در همان وقت نوکر دوست ارباب با هدیه ای برای وی رسید	El amo se enfadó y comenzó a golpear al criado. Justo en aquel mismo momento, llegó el sirviente (nokar) de un amigo del señor (arbâb) con un regalo para él.
@@ -7465,7 +7465,7 @@ Saranjām ānhā dastband-e mowredenazar-ešān rā peydā mikonand va ta
 - Я пью за ваше здоровье.<br>- За нашу встречу.	- Bebo a su salud.<br>- Por nuestro encuentro.
 کسی نامه ای می‌نوشت، فضولی کنارش نشسته بود و نامه اش را می‌خواند	Un hombre estaba escribiendo una carta, a sulada estaba sentado un fisgón (fozul) y este leía la carta
 مرد وقتی این را دید، در نامه اش نوشت: اگر کنجکاوی کنارم ننشسته بود و نامه ام را نمی‌خواند، رازی را برایت می‌نوشت	Cuando el hombre vio aquello, escribió en la carta: "si a mi lado no hubiera un curioso (konjkâv) leyendo mi carta, te escribiría un secreto (râz)"
-اگر نامه را نمی‌خواندی، چطور فهمیدی که می‌خواهد رازی در آن بنویسم؟	Si no estabas leyendo mi carta, ¿cómo supiste que quería escribir un secreto en ella?
+اگر نامه را نمی‌خواندی، چطور فهمیدی که می‌خواهم رازی در آن بنویسم؟	Si no estabas leyendo mi carta, ¿cómo supiste que quería escribir un secreto en ella?
 مرد فقیری به قصد کسب چیزی به خانه ی مرد ثروتمندی رفت	Un hombre pobre (faghir) fue a casa de un hombre rico (servatmand) con el fin de (be ghasd-e) conseguir (kasb) algo
 پدر من و تو آدم است و مادر ما حواست. پس من و تو برادر هستیم. تو این همه ثروت و مال داری، چطور می‌شود اگر به من یک سهم برادرانه بدهی؟	Mi padre y el tuyo es Adán y nuestra madre es Eva (havâ), así que tú y yo somos hermanos. Tú tienes toda esta riqueza y propiedades. ¿Qué tal si me das una parte (sahm) de hermandad?
 مرد ثروتمند به نوکر خود گفت: به او یك قاشق فلوس بده	El hombre rico dijo a su criado: "dale una cucharada (ghâshogh) de folus"
@@ -7493,7 +7493,7 @@ Saranjām ānhā dastband-e mowredenazar-ešān rā peydā mikonand va ta
 - Это подарок. Мне его подарила хена.<br>- Ах, да, я завыла. Вчера у вас был день рождения.	- Es un regalo. Me lo regaló mi mujer.<br>- Ah, sí, lo olvidé. Ayer fue su cumpleaños.
 - Да, годы идут!<br>- А сколько вам лет, если не секрет?	- ¡Sí, los años pasan!<br>- ¿Y cuántos años tiene Ud., si no es un secreto?
 - Какой там секрет? Мне уже сорок один год.<br>- Да вы ещё юноша!	- ¿Qué secreto? Ya tengo cuarenta y un años.<br>- ¡S es Ud. un mozo todavía!
-به ندرت گفته مي شه كه <br>”من خيلي يواشم”<br> يا كلماتي شبيه این<br>بيشتر اين گونه گفته مي شه كه<br>چون تازه از خواب بيدار شدم <br>هنوز كمي خواب آلو هستم و به آهستگي كارهايم را انجام مي دم<br>	Pocas veces (be nodrat) se dice "Estoy muy lento" o palabras así<br>Más a menudo se dice<br>"como acabo de levantarme, todavía estoy soñoliento y haco las cosas con lentitud"
+به ندرت گفته مي شه كه <br>”من خيلي يواشم”<br> يا كلماتي شبيه این<br>بيشتر اين گونه گفته مي شه كه<br>چون تازه از خواب بيدار شدم <br>هنوز كمي خواب آلو هستم و به آهستگي كارهايم را انجام مي دم<br>	Pocas veces (be nodrat) se dice "Estoy muy lento" o palabras así<br>Más a menudo se dice<br>"como acabo de levantarme, todavía estoy soñoliento y hago las cosas con lentitud"
 پیرهن او به بدنش چسبیده است	La camisa (pirhan) se le pegaba (chasbidan) al cuerpo
 در شهری انبار پنبه را دزدیدند	En una ciudad robaron el almacén (anbâr) de algodón (panbe)
 تاجران به پادشاه شکایت کردند. اما هر چه شاه فرمان تفحص داد، هیج دزدی پیدا نشد	Los comerciantes (tâjer) se quejaron (shekâyat kardan) al rey. Pero por mucho que el rey mandó (farmân dâdan) investigar (tafahos), no se encontró a ningún ladrón
@@ -7509,9 +7509,9 @@ Saranjām ānhā dastband-e mowredenazar-ešān rā peydā mikonand va ta
 - Да!? А в чём дело?<br>- Ему не повезло. Бедный наш мальчик должен сам всё готовить, стирать, мыть посуду и ходить в магазин.	- ¿Sí? ¿Qué le pasa?<br>- No ha tenido suerte. Nuestro pobre hijo tiene que cocinar, lavar, fregar los platos e ir de compras él mismo.
 آنها مثل افراد مسخ شده و طلسم شده هستند	Son como gente mesmerizada ("metamorfoseada", maskh) y bajo un hechizo (telesm)
 این ترس تو است که شیر را درنده تر می کند	Es tu miedo lo que hace al león más fiero (darande)
-طاق/تاق باز خوابیدن<br>دمر خوابیدن<br>به/بر پهلو خوابیدن	dormir boca arriba (tâgh bâz)<br>dormir boca abajo (damar)<br>dormir de lado (be/bar pahlu)
+طاق باز خوابیدن<br>دمر خوابیدن<br>به/بر پهلو خوابیدن	dormir boca arriba (tâgh bâz)<br>dormir boca abajo (damar)<br>dormir de lado (be/bar pahlu)
 نمی دونم کی یک دفعه یواشکی اومدی نشستی تو قلب من	No sé cuándo llegaste calladamente  (yavâshaki) y de repente te metiste en mi corazón
-یک روز شاهزاده ای در جمع پیروانش که چیره دستی او را تحسین می‌کردند، تمرین تیراندازی می‌کرد	Un día el príncipe (shâzâde) hacía ejercicios de tiro con arco (tirandâzi) rodeado de sus súbditos (pairo) que admiraban (tahsin kardan) su destreza
+یک روز شاهزاده ای در جمع پیروانش که چیره دستی او را تحسین می‌کردند، تمرین تیر اندازی می‌کرد	Un día el príncipe (shâzâde) hacía ejercicios de tiro con arco (tirandâzi) rodeado de sus súbditos (pairo) que admiraban (tahsin kardan) su destreza
 اگر به هدف بزنی آنچه می‌خواهی به تو می‌دهم	Si das en la diana (hadaf), te daré lo que quieres
 مرد کمان را گرفت، تیر را پرتاب کرد و درست به هدف زد	El hombre tomó el arco (kamân), lanzó (partâb kardan) la flecha (tir) y dio justo en el blanco
 امیرزاده رو در هم کشید و فریاد زد: صد سکه به تو داده ام، چطور می‌گویی که هیج نیافته ای؟	El príncipe puso cara de pocos amigos y le gritó: "¡Te he dado cien monedas! ¿Cómo dices que no te he dado nada?"
@@ -7565,9 +7565,9 @@ Saranjām ānhā dastband-e mowredenazar-ešān rā peydā mikonand va ta
 - Вот и хорошо. Пишите: улица Волгина, дом 6, квартира 14. А лучше я вас встречу у метро "Беляево".<br>- Я буду ровно в семь.	- Bueno. Escriba Ud.: calle Volguina, edificio 6, piso 14. Pero mejor la espero en la boca de metro "Beliaevo".<br>- Estaré allí a las siete en punto.
 - Ровно или чуть-чуть опоздаете?<br>- Нет, нет, я буду мниута в минуту.	- ¿En punto o se retrasa un poco?<br>- No, no, estaré a la hora exacta.
 مردی بخیل صد سکه داخل یک کیسه ی مهر شده گم کرد	Un hombre muy roñoso (bakhil) perdió cien monedas en una bolsa sellada (mohr shode)
-شخص خسس  بدقول در همه جا اعلام: هر کس کیسه ی من را بیابد، دو سکه به او خواهم داد	El roñoso incumplidor (khasis-e badghoul) propagó (e'lâm kardan) por todas partes: "A quien encuentre mi bolsa le daré diez monedas"
+شخص خسس  بدقول در همه جا اعلام کرد: هر کس کیسه ی من را بیابد، دو سکه به او خواهم داد	El roñoso incumplidor (khasis-e badghoul) propagó (e'lâm kardan) por todas partes: "A quien encuentre mi bolsa le daré diez monedas"
 اتفاقا مرد درستکاری این کیسه را یافت و به مرد بخیل باز گرداند. اما صاحب پول آنقدر بخیل بود که نمی‌خواست ده سکه را به یابنده بدهد	Por casualidad un hombre honrado (dorostkâr) encontró la bolsa y se la devolvió al tacaño. Por el dueño del dinero era tan tacaño que no quería dar diez monedas al que la había encontrado
-در کیسه را گشودم و ده سکه ی آن کم است. می‌بایست صد و ده سکه باشد و تنها صد سکه هست. بنابر این تو ده سکه ات را بر داشته ای	Abrí (goshudan) la bolsa y faltan (kam budan) diez monedas. Debía haber ciento diez monedas y solo hay cien, así que ya has cogido tus diez monedas
+در کیسه را گشودم و ده سکه ی آن کم است. می‌بایست صد و ده سکه باشد و تنها صد سکه هست. بنابر این تو ده سکه ات را بر داشته ای	Abrí (goshudan, goshâ) la bolsa y faltan (kam budan) diez monedas. Debía haber ciento diez monedas y solo hay cien, así que ya has cogido tus diez monedas
 مرد درستکار عصبانی شد، نزد قاضی رفت و همه چیز را برایش تعریف کرد	El hombre honrado se enfadó, acudió al juez y le contó (ta'rif kardan) todo. 
 هنگامی که روایت او را شنید، نگاهی به کیسه انداخت و متوجه شد که مهر کیسه باز نشده است	Cuando oyó su versión (ravâyat), echó un vistazo a la bolsa y se dio cuenta de que el sello no había sido abierto.
 با گفتن این حرف قاضی کیسه را به مرد درستکار داد و سفارش کرد کیسه را نگاه دارد تا مالک آن پیدا شود	Diciendo eso, el juez dio la bolsa al hombre honrado y ordenó que la guardase hasta que se encontrara al propietario (mâlek)
@@ -7578,11 +7578,11 @@ Saranjām ānhā dastband-e mowredenazar-ešān rā peydā mikonand va ta
 - А на каком етаже вы живёте?<br>- На шестом, но я, предьставте поднимаюсь без лифта. Надо быть в форме.	- ¿Y en qué piso viven?<br>- En el sexto, pero figúrese que subo sin ascensor. Hay que estar en forma.
 - Кстати, я тоже недавно переехал. Теперь у меня маленькый дом под Парижем.<br>- О! Собьственный дом за городом, моя мечта...	- Por cierto, hace poco yo también me he trasladado. Ahora tengo una casita en los alrededores de París ("bajo París").<br>- ¡Oh! Una casa propia en los alrededores de la ciudad, mi sueño...
 - И моя тоже. Я счастлив, что она сбылась.<br>- Я вас поздравлаю.	- Y el mío también. Estoy feliz de que se haya hecho realidad.<br>- Le felicito.
-بازرگانی پول خود را به صرافی سپرد و به سفر رفت	Un mercader (bâzergân) depositó  (sepordan, sepâr) su dinero en un casa de cambios y partió de viaje
-وقتی از سفر باز گشت، پول خود را از صراف طلب کرد. وی انکار کرد و قسم خورد که: هیج پول به من نسپرده ای!	Cuando regresó del viaje pidió su dinero al cambista. Este negó tenerlo y juró (ghasam khordan): "¡No me has entregado ningún dinero!"
-بازرگان ماجرای خود را برای یک قاضی شرح داد. قاضی تأملی کرد و گفت: این قضیه را پیش کسی بازگو نکن تا بتوانم پول تو را پس بگیرم	El mercader relató (sharh dâdan) su experiencia (mâjerâ) a un juez. El juez reflexionó (ta'amol-i kardan) y dijo: "No cuentes (bâzgu kardan) este asunto (ghazie) a nadie para que pueda recuperar tu dinero"
+بازرگانی پول خود را به صرافی سپرد و به سفر رفت	Un mercader (bâzergân) depositó  (sepordan, sepâr) su dinero en un casa de cambios (sarâfi) y partió de viaje
+وقتی از سفر باز گشت، پول خود را از صراف طلب کرد. وی انکار کرد و قسم خورد که: هیج پول به من نسپرده ای!	Cuando regresó del viaje pidió su dinero al cambista. Este negó tenerlo y juró (ghasam khordan): "¡No me has entregado ("depositar, confiar", sepordan, sepâr) ningún dinero!"
+بازرگان ماجرای خود را برای یک قاضی شرح داد. قاضی تأملی کرد و گفت: این قضیه را پیش کسی بازگو نکن تا بتوانم پول تو را پس بگیرم	El mercader (bâzergân) relató (sharh dâdan) su experiencia (mâjerâ) a un juez. El juez reflexionó (ta'amol-i kardan) y dijo: "No cuentes (bâzgu kardan) este asunto (ghazie) a nadie para que pueda recuperar tu dinero"
 روز بعد قاضی مرد صراف را خواست و به او گفت: کارهای زیادی دارم و به تنهایی نمی‌توانم آنها را انجام دهم. می‌خواهم تو را نایب خود کنم، چون فرد درستکاری هستی	Al día siguiente el juez citó al prestamista y le di jo: "Tengo mucho trabajo y no puedo hacerlo solo. Quiero hacerte mi ayudante (nâyeb) porque eres una persona (fard) honesta"
-سپس قاضی برای بازرگان پیام فرستاد که: اکنون می‌توانی پولت را از صفاری پس بگیری	Despuél el juez envió un mensaje al mercarder diciéndole: "Ya puedes recoger tu dinero de la casa de cambios"
+سپس قاضی برای بازرگان پیام فرستاد که: اکنون می‌توانی پولت را از صفاری پس بگیری	Después el juez envió un mensaje al mercarder diciéndole: "Ya puedes recoger tu dinero de la casa de cambios"
 روز بعد برای احراز پست رفت، اما قاضی ماجرای بازرگان را برایش تعریف کرد و صراف شرمنده شد	Al día siguiente fue a ocupar (ehrâz kardan) su puesto (post) pero el juez le contó el caso (mâjerâ) del mercader y el cambista se avergonzó
 تعادل برقرار کردن بین تمام خواسته های انسانی برایم سخت است. گاهی در حالت تضاد قرار می گیرم	Me es difícil guardar (bargharâr kardan) un equilibrio (ta'âdol) entre todas las necesidades humanas. A veces entro (gharâr gereftan) en un estado (hâlat) de conflicto/contradicción (tazâd)
 - Дорогая, а что мне надеть?<br>- Надень серый костюм и голубую рубашку.	- Querida, ¿qué me pongo?<br>- Ponte el traje gris y la camisa azul.
@@ -7605,9 +7605,9 @@ Saranjām ānhā dastband-e mowredenazar-ešān rā peydā mikonand va ta
 - Я купил хене очень дорогую посуду.<br>- А почему очень дорогую?	- Le compré a mi mujer una vajilla muy cara.<br>- Pero ¿por qué muy cara?
 - А теперь она больше не будет меня заставлять мыть посуду.<br>- А между прочим, не купить ли мне самый дорогой сервиз?	- Es que a partir de ahora ("más") ya no me va a obligar a fregar los platos.<br>- Es verdad, ¿por qué no le compro yo el servicio de mesa más caro?
 - Прикрасная идея! Вот видишь, как всё просто решается.<br>- Недаром говорят, один ум хорошо, а два лучше.	- ¡Muy buena idea! Ya ves lo fácilmente que se resuelve todo.<br>- No sin razón dicen que dos cabezas son mejor que una.
-شاعری به خانه ی مردی بسیار خسیس رفت و شعر ی در باب وفا به عهد گفت	Un poeta fue a casa de un hombre muy tacaño y le recitó un poema sobre (dar bâb-e) el cumplimiento (vafâ) de las promesas ('ahd)
+شاعری به خانه ی مردی بسیار خسیس رفت و شعر ی در باب وفا به عهد گفت	Un poeta fue a casa de un hombre muy tacaño (khasis) y le recitó un poema sobre (dar bâb-e) el cumplimiento (vafâ) de las promesas ('ahd)
 اکنون پول ندارم به تو پرداخت کنم، اما غله زیاد دارم. اگر فردا بیایی چیزی به تو خواهم داد	Ahora no tengo dinero para pagarte, pero tengo muchos cereales (ghale). Si vienes mañana, te daré algo
-شاعر روز بعد نزد مرد خسیس باز گشت و خواهان غله شد	ٰEl poeta volvió al día siguiente y pidió ("se volvió deseoso de", khâkhân-e) los cereales
+شاعر روز بعد نزد مرد خسیس باز گشت و خواهان غله شد	El poeta volvió al día siguiente y pidió ("se volvió deseoso de", khâkhân-e) los cereales
 عجب نادان هستی! دیروز شعر ی برایم خواندی که خوشم آمد، من هم وعده ای به تو دادم که تو خوشت آمد	¡Qué ("maravilla", 'ajab) tonto (nâdân) eres! Ayer me recitaste un poema que me gustó, y yo te hice una promesa (va'de) que te gustó a ti
 - У вас нет таблетки от головы?<br>- Вот, пожалуйста, аспирин. А что случилось?	- ¿No tendrá pastillas para (el dolor de) cabeza?<br>- Tenga una aspirina. Pero ¿qué le ha pasado?
 - Наверное, я очень устала, поздно легла, плохо спала.<br>- Может быть, у вас температура? Ну, конечно же, лоб горячий и совсем больные глаза.	- Posiblemente estoy muy cansada, me he acostado tarde, he dormido mal.<br>- Puede ser. Desde luego, tiene la frente ardiente y los ojos totalmente enfermos.
@@ -7677,7 +7677,7 @@ Saranjām ānhā dastband-e mowredenazar-ešān rā peydā mikonand va ta
 - Завидую я вам. Мне кажется, моя жена меня всю жизнь не понимает. А твоя, Борис?<br>- Не знаю, я никогда её не спрашивал об етом.	- Os envidio. Me parece que mi mujer no me ha comprendido nunca. ¿Y la tuya, Boris?<br>- No lo sé, no se lo he preguntado nunca.
 - И всё - таки, нам повезло, друзья. Я предлагаю - за здоровье наших дам!<br>- За их здоровье! И пора домой. Нас могут не понять.	- A pesar de todo, tenemos suerte, amigos. Propongo [beber] a la salud de nuestras damas.<br>- ¡A su salud! Ya es hora de [ir] a casa. Pueden no comprendernos. 
 غلامی از خانه ی صاحب خود فرار کرد	Un criado (gholâm) se escapó (farâr kardan) de la casa de su amo
-غلام خود را از دست صاحبش رها کرد، یقه کت او را گرفت و فریاد زد: تو غلام من هستی! مال مرا دزدیدی و فرار کردی. حالا که تو را پیدا کرده ام سزای کارت را خواهی دید	El criado se zafó de las manos de su amo, lo agarró por el cuello (yaghe) de su jubón (kot) y gritó: "¡Tú eres mi criado! Me robaste y huiste. Ahora que te he encontrado vas a recibir tu merecido (sezâ-ye kârt râ didan)
+غلام خود را از دست صاحبش رها کرد، یقه کت او را گرفت و فریاد زد: تو غلام من هستی! مال مرا دزدیدی و فرار کردی. حالا که تو را پیدا کرده ام سزای کارت را خواهی دید	El criado se zafó de las manos de su amo, lo agarró por el cuello (yaghe) de su jubón (kot) y gritó: "¡Tú eres mi criado! Me robaste y huiste. Ahora que te he encontrado vas a recibir tu merecido (sezâ-ye kârat râ didan)
 مردمی که این صحنه را می‌دیدند، هر دو مرد را گرفتند و پیش قاضی بردند	La gente que veía esta escena (sahne) agarró a ambos hombres y los llevó ante el juez
 به هر یك کیسه ای داد تا سرشان را داخل آن بکنند، آنگاه جلاد را صدا زد و به او دستور داد: سر غلام را قطع بکن!	Dio a cada uno un saco para que metieran la cabeza, llamó al verdugo (jalâd) y le ordenó: "¡Corta (ghat' kardan) la cabeza al criado!"
 ناگهان یکی از مردها سرش را از کیسه بیرون آورد و التماس کنان گفت: خواهش می‌کنم به من رحم کن! مرا نکش!	De repente, uno de los hombres sacó la cabeza del saco e imploró (eltemâs kardan): "¡Por favor, perdóname (rahm kardan)! ¡No me mates!"
@@ -7707,10 +7707,41 @@ Saranjām ānhā dastband-e mowredenazar-ešān rā peydā mikonand va ta
 یک نفر کلاه درویش را دزدید و فرار کرد. درویش به گورستان رفت و در گوشه ای نشست	Un hombre robó el gorro (kolâh) a un derviche y escapó. El derviche se fue al cementerio y se sentó en un rincón (gushe).
 او نیز عاقبت همین جا خواهد آمد. به همین دلیل اینجا نشسته ام	Al final ('âghebat) él también vendrá aquí, por eso me he sentado en este lugar
 نقاش به شهر دیگر رفت و در آنجا کار طبابت در پیش گرفت. بعد از چند روز یک نفر از آشنایان او به آن شهر رفت و به نقاش برخورد	Un pintor se fue a otra ciudad y allí comenzó a trabajar como médico (tebâbat). Unos días después, fue a esa ciudad un conocido suyo y se encontró con el pintor
-- ولی تو از پزشکی هیچ خیز نمی‌دانی. چطور نقاشی را رها کرده ای و به طبابت میپردازی؟<br>- مهم نیست، اگر در این کار اشتباه کنم، خاک همه را می‌پوشاند	- Pero si tú no sabes nada de medicina. ¿Cómo es que has dejado la pintura y te dedicas (pardâkhtan, pardâz) a ser médico?<br>- No importa, si me equivoco en este trabajo, la tierra lo cubrirá todo.
+- ولی تو از پزشکی هیچ چیز نمی‌دانی. چطور نقاشی را رها کرده ای و به طبابت میپردازی؟<br>- مهم نیست، اگر در این کار اشتباه کنم، خاک همه را می‌پوشاند	- Pero si tú no sabes nada de medicina. ¿Cómo es que has dejado la pintura y te dedicas (pardâkhtan, pardâz) a ser médico?<br>- No importa, si me equivoco en este trabajo, la tierra lo cubrirá todo.
 در مورد اسطوره هاي ايراني در شاهنامه فردوسي شعرهاي زيادي وجود دارد	Hay muchos poemas en el Shâhnâme de Ferdousi sobre (dar moured-e) las leyendas (osture) iraníes
 داشتم به خلاء سقوط می‌کردم بی اونکه بتونم به زندگی چنگ بزنم	Fui cayéndome (soghut kardan) al vacío (khala') sin poder agarrarme (chang zadan) a la vida
 چطور تونستم حتی تصورش رو بکنم که چیزی داشتم که به تو تقدیم کنم؟	¿Cómo pude imaginarme (tasavor kardan) que tenía algo que darte ("dedicarte", taghdim kardan)?
-دو شریک از پیرزنی خواستند که مقداری پولشان را برایشان نگهداری بکند و ینها به این شرط که هر دو با هم نزد پیرزن بروند، پظل را باز کرداند	Dos socios (sharik) pidieron a una anciana que les guardara (negahdâri kardan) cierta cantidad de dinero y que solo lo devolviera con la condición (shart) de que fueran los dos juntos a recogerlo
+دو شریک از پیرزنی خواستند که مقداری پولشان را برایشان نگهداری بکند و تنها به این شرط که هر دو با هم نزد پیرزن بروند، پول را باز گرداند	Dos socios (sharik) pidieron a una anciana que les guardara (negahdâri kardan) cierta cantidad de dinero y que solo lo devolviera con la condición (shart) de que fueran los dos juntos a recogerlo
 بعد از بحث زیاد، پیرزن مجبور به باز گرداندن پول به وی شد	Después de mucha discusión (bahs), la anciana se vio obligada a entregarle el dinero
 حاکم پس از شنیدن آنچه رخ داده بود، لختی فکر کرد و خطاب به شریک دوم گفت	Tras escuchar lo sucedido, el gobernador meditó un momento (lakhti) y se dirigió (khatâb goftan/kardan) al segundo socio
+در جنگ سربازی را اسیر و زندانی کردند. فرمانده لشکر دشمن فرمان به کشتن او داد	En la guerra hicieron prisionero (asir-o zendâni) a un soldado (sarbâz). El comandante (farmânde) del ejército (lashkar) enemigo dio orden de matarlo
+سرباز از او خواهش کرد: اگر قصد کشتن مرا دارید، پیش از کشتن، کمی آب به من بدهید	El soldado le suplicó: "Si tenéis intención (ghasd) de matarme, antes de hacerlo dadme un poco de agua"
+سرباز سرش را به سمت فرمانده گرداند و گفت: آیا به من قول می‌دهید تا این آب را ننوشم کاری سرم نمی‌آید؟	El soldado (sarbâz) giró la cabeza hacia el comandante y dijo: "¿Me dais vuestra promesa (ghoul) de que no me pasará nada hasta que ("en tanto no") me beba esta agua?"
+بله، به تو قول می‌دهم که اتفاقی برایت نمی‌افتد تا نوشیدن آب را تمام کنی	Sí, te doy mi promesa de que no te sucederá (etefâgh oftâdan) nada hasta que acabes de beber el agua
+سرباز که همین پاسخ را می‌خواست، کوزه را به سنگی زد و شکست و آب آن بر زمین جاری شد	El soldado, que estaba esperando ("quería") esa respuesta, golpeó el cántaro contra una piedra, lo rompió y el agua se vertió (jâri shodan) sobre la tierra
+ای فرمانده من تشنه نیستم، اما با این عمل کاری کردم قول شما عملی شود که مرا نمی‌کشید تا اب را ننوشم. آبی که حالا دیگر پخش شده است	Comandante, no tengo sed, pero con esta acción ('amal) he conseguido (kâri kardan) que se cumpla ('amali shodan) vuestra promesa de que no me mataríais hasta que no bebiera el agua. Agua que ahora ya está derramada (pakhsh)
+تیز	tiz<br><br>sharp<br>afilado
+ژرف	zharf<br><br>deep<br>profundo
+روزی انوشیروان پادشاه ساسانی به شکار رفت و هنگام گردش در صحرا به پیر مردی برخورد کرد که درخت می‌کاشت	Un día Anushirevan, el rey sasánida, fue de caza (shekâr) y, mientras caminaba por el campo (sahrâ), se topó con un viejo que estaba plantando (kâshtan/keshtan, kâr) un árbol
+با تعجب خطاب به او گفت: ای پیر مرد چه می‌کنی، آیا نمیدانی سال‌ها طول می‌کشد که این درخت بار بدهد و تو پیر هستی و بار آن را نخواهی دید؟	Se dirigió a él (khatâb goftan/kardan): "Anciano, ¿qué haces? ¿Acaso no sabes que este árbol tardará años en dar fruto (bâr) y tú eres viejo y no lo verás?"
+پیرمرد خوشحال شد و با لبخندی رو به پادشاه گفت: می‌بینی؟ گاهی درخت خیلی زودتر از آنچه فکر می‌کنی به بار می‌نشیند	El viejo se alegró y dijo al monarca con una sonrisa en los labios: "¿Veis? A veces el árbol da sus frutos mucho antes de lo que pensamos"
+خواننده ی چابک<br>مردی در خیابان آواز می‌خواند و به سرعت می‌دوید	El cantante veloz (châbok)<br>En plena calle, un hombre cantaba y corría velozmente ("a velocidad", sor'at)
+علاوه بر این، می‌خواستم بدانم وقتی می‌خوانم صدایم تا کجا می‌رود 	Además (alâve bar in), me gustaría saber hasta dónde llega mi voz cuando canto
+جوان با گریه گفت: این مرد از سوگند خوردن باکی ندارد، بارها این کار را کرده است	El muchacho dijo entre sollozos: "Este hombre no tiene aprensión (bâk) de jurar (sougand khordan) [en falso], lo ha hecho muchas veces"
+آنگاه قاضی تاملی کرد و گفت: وقتی پولت را به او سپردی کجا بودید؟	Entonces el juez reflexionó (ta'amol kardan) y dijo: "¿Dónde estabais cuando le entregaste el dinero?"
+پیرمرد قهقهه ای زد و جوان ناامیدانه پاسخ داد: ای قاضی می‌ترسم که درخت حتی به دستور تو اینجا نیاید	El anciano se rio a caracajadas (ghahghahe zadan) y el chico desesperanzado (nâomidâne) contestó: "Juez, me temo que el árbol no vendrá ni siquiera por orden tuya"
+مهر و انگشتر مرا با خود ببر و به درخت نشان بده، این طور حتما خواهد آمد. جوان مهر قاضی را گرفت و روانه شد	Llévate este anillo (angoshtar) con mi sello (mohr) y muéstraselo al árbol, seguro que así vendrá. El muchacho tomó el sello del juez y se marchó (ravâne shodan)
+جوان با ناامیدی بازگشت و گفت: جناب قاضی همان طور که راهنمایی کردی مهر تو را به درخت نشان دادم، اما درخت با من نیامد	El muchacho regresó desconsolado (bâ nâomidi) y dijo: "Señor juez, le he mostrado tu anillo al árbol come me indicaste (râhnamâie kardan) pero el árbol no ha venido conmigo"
+نگران بباش، در مدتی که تو رفتی و بازگشتی، درخت به اینجا آمد، گواهی داد و برگشت	No te preocupes, mientras ibas y volvías, el árbol vino hasta aquí, declaró (govâhi dâdan) y regresó
+به عبارت دیگر می‌دانستی که به کدام درخت باید برسد. این نشان می‌دهد که جوان حق دارد و مجبوری پولش را پس بدهی 	En otras palabras ("frase", 'ebârat), sabías a qué árbol tenía que llegar. Eso demuestra que el joven tiene razón y debes devolverle su dinero
+روزی یك روستایی سوار بر الاغش در حالی که بزی را با طناب به دنبال خود می‌کشید به شهری وارد شد	Un día un pueblerino (rustâie) entró en la ciudad a lomos de su burro (olâgh) arrastrando detrás una cabra (boz) mediante una cuerda (tanâb)
+سه دزد بسیار تردست او را از دور می‌پاییدند، در حالی که با هم شرط می‌بستند که کدام یك به ساده ترین روش می‌تواند اموالش را بدزدد	Thes ladrones muy hábiles (tardast) lo observaban de lejos mientras apostaban (shart bastan) quién de ellos podría robarle sus bienes (amvâl) de forma (ravesh) más sencilla (sâde)
+دزد سوم گفت: همه اینها آسان است، من لباسی را که به تن دارد خواهم دزدید	El tercer ladrón dijo: "Todo eso es muy fácil, yo le voy a robar la ropa que lleva puesta ("tiene en el cuerpo", tan)"
+دزدها به طرف روستایی روانه شدند و دزد اول در فرصتی مناسب طناب بز را باز کرد و زنگوله آن را به دم خر بست	Los ladrones se dirigieron hacia el campesino y en el momento (forsat) adecuado (monâseb) el primer ladrón desató a la cabra y ató el cencerro (zangule) a la cola del asno (khar)
+روستایی به پشت سر نگاه کرد و متوجه شد که الاغش را دزدیده اند	El campesino miró hacia atrás ("hacia detrás de la cabeza") y se dio cuenta de que le habían robado el burro
+روستایی ناامید برای پیدا کردان اموالش اطراف شهر می‌گشت که کنار چاهی به دزد سوم برخورد	El campesino, desesperado, dio muchas vueltas alrededor de la ciudad para encontrar sus pertencias (amvâl), hasta que se topó con el tercer ladrón junto a un pozo (châh)
+صندوقچه ای پر از سکه های طلا از دستم در چاه افتاده است و نمی‌توانم آن را بیرون بیاورم	Se me ha caído al pozo un cofrecito (sandugh-che) lleno de monedas de oro y no puedo sacarlo
+لباس‌هایش را بیرون آورد و داخل چاه شد. اما هر چه از ته چاه فریاد می‌زد که: آنجا هیج چیز نیست! کسی پاسخش را نداد	Se quitó la ropa y se metió en el pozo pero, por mucho que gritó desde el fondo (tah) del pozo que no había nada allí, nadié le respondió
+هر طور بود از چاه بیرون آمد و زمانی که متوجه شد که برای سومین بار اموالش را دزدیده اند، سخت عصبانی شد	Salió como pudo del pozo y, cuando se dio cuenta de que le habían robado por tercera vez, se puso furioso
+این طور خودم را حفظ می‌کنم، می‌ترسم که خود من را هم بدزدند	Así me protejo (hefz kardan), tengo miedo de que me roben a mí mismo
+ما همه پاره تن هم هستیم	Somos pedazos de un mismo cuerpo
