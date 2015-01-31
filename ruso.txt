@@ -1,0 +1,389 @@
+Что это? Это ...	¿Qué (es) esto? Esto (es) ...
+Кто это? Это...	¿Quién (es) este/a? Este/a es...
+Квартира номер один	Apartamento número uno
+Это кнуга и пиcьмо	Esto es un libro y una carta
+Где ручка? Ручка здесь а карандаш там	¿Dónde (está) el bolígrafo? El bolígrafo está aquí y el lápiz allí
+Учебник здиесь и тетрадь тоже здиесь	El libro de texto está aquí y el cuaderno también está aquí
+Газета здесь а журнал там	El periódico está aquí y/pero la revista está allá
+Я, ты, он, она<br>вместе дружная семья	Yo, tú, él, ella<br>juntos (somos una) familia unida
+Здравствуй(те)!	¡Hola! ("Ten/ga(n) salud")
+Привет!	¡Hola! (informal/familiar)
+- Спасибо<br>- Пожалуйста!	- Gracias<br>- ¡De nada!
+Давайте познакомимся!<br>Пазнакомьтесь!	¡Conozcámonos!<br>¡Conózcanse! (les presento)
+Хорошо	Bien
+- Как Вас зобут?<br>- Меня зовут Аня.	- ¿Cuál ("cómo") es su nombre?<br>- Mi nombre es Anya.
+ноль	cero
+один	uno
+два	dos
+три	tres
+четыре	cuatro
+пять	cinco
+- Как Ваше отчество?<br>- Моё отчество Александовна.	- ¿Cuál ("cómo") es su patronímico?<br>- Mi patronímico es Alexandrovna.
+- Как Ваша фамилия?<br>- Моя фамилия Ткаченко.	- ¿Cuál ("cómo") es su apellido?<br>- Mi apellido es Tkachenko.
+- Где Вы родились?<br>- Я родилась в донецке.	- ¿Dónde nació Ud.?<br>- Yo nací en Donetsk.
+- Вы работаете или учитесь?<br>- Я работаю в банке	- ¿Ud. trabaja o estudia?<br>- Yo trabajo en el banco.
+- Сколько Вам лет?<br>- Мне 23 года.	- ¿Cuántos años tiene Ud.?<br>- Yo tengo 23 años.
+шесть	seis
+семь	siete
+восемь	ocho
+девять	nueve
+десять	diez
+сто	cien
+- Когда у Вас день рождения?<br>- Мой день рождения 21 июня.	- ¿Cuándo es su cumpleaños?<br>- Mi cumpleaños es el 21 de junio.
+- Какой у вас телефон?<br>- У меня телефон 0501234567	- ¿Cuál es su teléfono?<br>- Mi teléfono es 0501234567
+- Вы замужем или свободны?<br>- Я замужем.	- ¿Es Ud. casada o soltera?<br>- Soy casada.
+- Вы живёте в доме или в квартире?<br>- Я живу в квартире.	- ¿Vive Ud. en un casa o en un apartamento?<br>- Yo vivo en un apartamento.
+- Какие языки Вы знаете?<br>- Я знаю ачглийский, русский и украинский языки.	- ¿Qué lenguas sabe Ud.?<br>_ Yo sé inglés, ruso y ucraniano.
+- У Вас есть друг? Как его зовут?<br>- Его зовут Евгений Николаевнч Непейпиво.	- ¿Tiene Ud. un amigo? ¿Cuál ("cómo") es su nombre?<br>- Su nombre es Yevgeny Nikolaevich Nepeypivo
+- Кто он по национальности?<br>- Он украинец.	- ¿Cuál es su nacionalidad?<br>- Él es ucraniano.
+- Где он родился?<br>- Он родился и живёт в Донецке.	- ¿Dónde nació?<br>- Él nació y vive en Donetsk.
+- Какой у Евгения адрес?<br>- Его адрес - ул. Артёма, дом 277, квартира 27.	- ¿Cuál es su dirección (de él)?<br>- Su dirección es calle Artyom, número ("casa") 277, apartamento 27. 
+- Сколько ему лет?<br>- Ему двадцать пять лет.	- ¿Cuántos años tiene?<br>- Tiene 25 años.
+- Где он работает?<br>- Он работает в торговой фирме.	- ¿Dónde trabaja él?<br>- Él trabaja en una empresa de menoreo.
+- Кем он работает в этой фирме?<br>- Он администратор компьютерной сети.	- ¿En qué trabaja en esa compañía?<br>- Él es administrador de redes de computadoras.
+- Ваш друг живёт в квартире или в собственном доме?<br>- Он живёт в собственном доме.	- ¿Su amigo vive en un apartamento o en casa propia?<br>- Él vive en su propia casa.
+- Какой у него номер телефона?<br>- У него номер телефона 1234567890.	- ¿Cuál es su número de de teléfono?<br>- Su número de teléfono es el 1234567890.
+- На каких языках он говорит?<br>- Он говорит на русском, украинском и немецком языках.	- ¿Qué idiomas habla?<br>- Él habla ruso, ucraniano y alemán.
+одиннадцать	once
+двенадцать	doce
+тринадцать	trece
+четырнадцать	catorce
+пятнадцать	quince
+шестнадцать	dieciséis
+семнадцать	diecisiete
+восемнадцать	dieciocho
+девятнадцать	diecinueve
+тысяча	mil
+миллион<br>миллиард	millón<br>mil millones
+двадцать, двести	veinte, doscientos
+тридцатъ, триста	treinta, trescientos
+сорок, четыреста	cuarenta, cuatrocientos
+пятьдесят, пятьсот	cincuenta, quinientos
+шестъдесят, шестьсот	sesenta, seiscientos
+семьдесят, семьсот	setenta, setecientos
+восемьдесят, восемьсот	ochenta, ochocientos
+девяносто, девятьсот	noventa, novecientos
+Очень приятно	Mucho gusto
+- Как дела?<br>- Плохо!	- ¿Cómo va eso?<br>- ¡Mal!
+До свидания	Hasta la vista
+Урок Н(омер) один	Lección número 1
+Иван иванович и Анна Петровна муж и жена	Iván Ivánovich y Anna Petrovna son marido y mujer
+Анна Петровна и Иван Иванович мать и отец, мама и папа. Они родители	Anna Petrovna e Iván Ivánovich son la madre y el padre, mamá y papá. Ellos son los padres
+Максим и Нина сын и дочь. Они дети	Maxim y Nina son el hijo y la hija. Ellos son los hijos
+Это бабушка и дедушка, внук и внучка	Estos son la abuela y el abuelo, el nieto y la nieta
+Максим и Нина брат и сестра	Maxim y Nina son hermano y hermana
+Это Максим. Нина его сестра, Иван Иванович его папа	Este es Maxim. Nina es su hermana, Iván Ivánovich es su papá
+Это Нина. Махим её брат. Анна Петровна и Иван Иванович её родители	Esta es Nina. Maxim es su hermano. Anna Petrova e Iván Ivánovich son sus padres
+Это Максим и Нина. Иван Иванович и Анна Петровна их родители	Estos son Maxim y Ana. Iván Ivánovich y Ana Petrovna son sus padres
+Eё Дядя и тётя дома. Её кот и собака тоже дома	Su tío y su tía (de ella) están en casa. Su gato y su perro también están en casa
+Кто это? Это друг и подруга. Они друзья	¿Quiénes son? So un amigo y una  amiga. Son amigos
+- Что он делает?<br>- Он читает.	- ¿Qué hace?<br>- Lee.
+- Что они делают?<br>- Они читают.	- ¿Qué hacen?<br>- Leen.
+- Что делаешь?<br>- Я гуляю.	- ¿Qué haces?<br>- Paseo.
+- Что делаете?<br>- Мы работаем.	- ¿Qué hacéis?<br>- Trabajamos.
+делать, читать, работать, жить	hacer, leer, trabajar, vivir (irr.)
+- Как по Русский "pasear"?<br>- "Pasear" по Руский "гулять".	- ¿Cómo es "pasear" en ruso?<br>- "Pasear" en ruso es "гулять".
+- Что Вы читаете?<br>- Я читаю книгу/газету.	- ¿Qué lee Ud.?<br>- Leo un libro/un periódico.
+- Что ты читаешьЬ<br>- Я читаю журнал/письмо.	- ¿Qué lees?<br>- Leo un periódico/una carta.
+Это стихи. Она читает стихи.	Estos son poemas. Ella lee poemas.
+- Что они делают?<br>- Они слушают музыку.<br>- Да, мы слушаем музыку.	- ¿Qué hacen?<br>- Ellos escuchan música.<br>- Sí, nosotros escuchamos música.
+Максим играет в футбол а Нина играет в хоккей	Maxim juega al fútbol y Nina juega al hockey
+Иван иванович и его семьа дома. Они отдыхают. Мама и Максим играют в шахматы	Iván Ivanovich y su familia están en casa. Están descansando/relajándose.<br>La mamá y Maxim juegan al ajedrez.
+Сейчас мы работаем а они отдыхают	Ahora nosotros trabajamos y ellos descansan
+Что делает Максим? Что он делает?	¿Qué hace Maxim? ¿Qué hace él?
+Это завод/фабрика.  Они работают	Esto es una planta idustrial/fábrica. Trabajan
+Это больница. Bрач работает здесь	Es un hospital. El médico trabaja aquí
+Кто Это? Это строитель и фермер. Они работают	¿Quiénes son estos? Son un albañil y un labriego. Ellos trabajan
+- Кто он по профессии?<br>- Он учитель и его жена тоже учительница	- ¿Qué es él de profesión?<br>- Él es maestro y su mujer también es maestra
+Анна Петровна работает в школе а её муж работает в магазине	Ana Petrovna trabaja en la escuela y su marido trabaja en una tienda
+Иван Иванович на работе. Он работает на стройке. Его жена на пенсии	Iván Ivánovich está en el trabajo. Él trabaja en una obra. Su mujer está jubilada ("en pensión")
+Иван Иванович и его семьа живут в Москве	Iván Ivánovich y su familia viven en Moscú
+- Где Вы живёте?<br>- Мы хивём в Америке / в США	- ¿Dónde viven Uds?<br>- Vivimos en América / en EE.UU.
+- Где ты живёшь?<br>- Я живу в штате Техас, в Далласе.	- ¿Dónde vives?<br>- Yo vivo en el estado de Texas, en Dallas.
+- Как тебе/вас зовут?<br>- Меня зовут Франсиско.	- ¿Cuál es tu/su nombre?<br>- Mi nombre es Francisco
+Познакомьтес: Это Василий Николаевич. Он уже не работает, он на пенсии.<br>Он и Иван Иванович соседи.	Les presento a Vasilii Nikoáievich. Él ya no trabaja, está jubilado. Él e I.I. son vecinos.
+А его жена ещё работает в библиотеке	Pero su mujer todavía trabaja en la biblioteca
+Это школьники. Они учатся (учиться) в школе	Estos son escolares. Ellos estudian (estudiar) en la escuela
+Я учусь в школе "Virgen de las Nieves"	Estudio en la escuela "Virgen de las Nieves"
+Где ты учишься?<br>Где Вы учитесь?	¿Dónde estudias?<br>¿Dónde estudia(n) Ud(s).?
+Познакомьтесь: это борис. Он стыдент. Он живёт в Москве и учится в университете.	Les presento a Boris. Es estudiante. Vive en Moscú y estudia en la universidad.
+Как теба зовут? Где ты живёшь? Где ты учишьса?	¿Cómo te llamas? ¿Dónde vives?
+Максим и Нина живут в России.	Maxim y Nina viven en Rusia.
+Доброе утро!	¡Buenos días!
+Добрый день!	¡Buenas tardes!
+Добрый вечер!	¡Buenas noches!
+Простите/извините, пожалуйста	Perdone, por favor
+Входите, пожалуйста	Entre, por favor
+- Когда вы завтракаиете?<br>- Мы завтракаем утром.	- ¿Cuándo desayunáis?<br>- Desayunamos por la mañana.
+- Когда вы обедаешь?<br>- Я обедаю днём.	- ¿Cuándo almuerzas?<br>- Almuerzo por la tarde.
+- Когда ужинают школьники?<br>- Они ухинают вечером.	- ¿Cuándo cenan los colegiales?<br>- Ellos cenan por la noche.
+Я не знаю и ты не знаешь.<br>Я знаю a ты не знаешь.<br>Я не знаю но ты знаешь!	Yo no sé y tú no sabes.<br>Yo sé y tú no sabes.<br>¡Yo no sé pero tú sí sabes!
+Я много знаю а ты мало знаешь.<br>Я мало знаю и вы тоже мало знаете.	Yo sé mucho y tú sabes poco.<br>Yo sé poco y Ud. también sabe poco.
+Он работает хорошо а она работает ллохо.<br>Он работает хорошо но делает мало.	Él trabaja bien y ella trabaja mal.<br>Él trabaja bien pero hace poco.
+Вы понимаете это?<br>Извините, я не понимаю.<br>Я понимаю мало - он понимает хорошо.	¿Comprende usted esto?<br>Perdone, no comprndo.<br>Yo comprendo poco - él comprende bien.
+Он много думает но мало знает.<br>Вы мало думаете.<br>Они не думают.	Él piensa mucho pero sabe poco.<br>Uds. piensan poco.<br>Ellos no piensan.<br>
+- Вы разговарываете по-русски или нет?<br>- Да, разговарываю, но очень медленно.	- ¿Conversa Ud. en ruso o no?<br>- Sí, converso, pero muy lento.
+- Ты понимаешь, как я болтаю?<br>- Я не понимаю, если ты болтаешь так быстро.	- ¿Comprendes la forma en que hablo?<br>- No comprendo si hablas tan rápido.
+Он часто завтракает так поздно/рано как мы обедаем.	Él a menudo desayuna tan tarde/temprano como nosotros almorzamos.
+Лариса, вы не думаете поужинать?	Larisa, ¿no piensa cenar?
+- Вы быстро загораете или медленно?<br>- Я быстро загораю но Юлия медленно загорает.	- ¿Usted se broncea rápido o lento?<br>- Yo me bronceo rápido pero Julia se broncea lento.
+Извините, товарищ, здесь не кушают.	Disculpe, camarada, aquí no se come ("no comen")
+Они кушают быстро а гуляют медленно.	Ellos comen rápido y pasean despacio.
+Знаете, я очень редко гуляю. Мне нужно (по)гулать немножко.	Sabe, yo pocas veces paseo. Necesito dar un paseíto.
+Осторожно, там гуляют по-русски!	Cuidado, ¡Ahí se "pasea" al estilo ruso! (festejan como los ruso)
+Вы думаете, что вы умираете, но вы не умираете.	Ud. piensa que se muere, pero no se está muriendo.
+Это принимать нельзя!	¡No se puede aceptar esto!
+Можно примимать это иногда, но не всегда.	Se puede aceptar esto a veces, pero no siempre.
+- Нельзя покупать всё.<br>- А я всё-таки покупапю всё.	- No se puede comprar todo.<br>- Pero yo de todas formas compro todo.
+Никогда никогда не хенись, мой друг. Вот тебе мой совет.	Nunca nunca te cases, amigo mío. Este es mi consejo para ti.
+Я знаю тебя и ты знаешь меня.	Yo te conozco y tú me conoces a mí.
+- Что Вы стараетесь демонстрировать?<br>- Я стараюсь демонстрировать только хорошие манеры.	- ¿Qué intenta Ud. mostrar?<br>- Yo intento mostrar solo buenos modales.
+- На что Ваш муж имеет ориентацию?<br>- Мой муж имеет ориентацию на позитив.	- ¿Hacia qué está orientado su marido?<br>- Mi marido está orientado hacia lo positivo.
+- Кем Вы стараетесь быть?<br>- Я стараюсь быть реалистом.	- ¿Quién intenta Ud. ser?<br>- Yo intento ser un realista.
+- Что Ваш муж иногда демонстрирyet?<br>- Он иногда демонстрирует пессимизм.	- ¿Qué muestra a veces su marido?<br>- Él a veces muestra pesimismo.
+- Куда Вы ходите с мужем?<br>- Мы с мужем ходим в клув или кафе.<br>- Что Вы там делаете?<br>- Мы там танцуем и пьём коктейли.	- ¿Adónde va Ud. con su marido?<br>- Mi marido y yo vamos al club o al café.<br>- ¿Qué hacen allá?<br>- Allí bailamos y bebemos cocktails.
+- О чем нужно забывать вечером?<br>- Вечером нужно забывать о проблемах.	- ¿Qué se debe olvidar por la noche?<br>- Por la noche se deben olvidar los problemas.
+- Чем помогает Вам Ваш оптимизм?<br>- Мой оптимизм помогает мне забыть весь негатив повседневной жизин.	- ¿A qué le ayuda su optimismo?<br>- Mi optimismo me ayuda a olvidar todos lo negativo de la vida diaria.
+Почему ты утром опaздываeшь?	¿Por qué te retrasas por la mañana?
+Познакомьтесь, пожалуйста. Это мой папа. Это моя мама. Это мой брат Максим. А это мои другзья.	Permítanme presentarlos. Este es mi papá. Esta es mi mamá. Este es mi hermano Maxim. Y estos son mis amigos.
+- Чей это дом?<br>- Это мой дом.	- ¿De quién es esta casa?<br>- Es mi casa.
+- Чья Это книга?<br>- Это моя книга.	- ¿De quién es este libro?<br>- Es mi libro.
+- Чьё это письмо?<br>- Это моё письмо.	- ¿De quién es esta carta?<br>- El mi carta.
+- Чьи это дети?<br>- Это мои дети.	- ¿De quién son estos niños?<br>- Son mis niños.
+- Какая у вас профессия?<br>- Я финансист.	- ¿Cuál es su profesión?<br>- Soy banquero.
+- Вы высокая или низкая?<br>- Я среднего роста.	- ¿Ud. es alta o baja?<br>- Soy de altura media.
+- Какой у Вас рост?<br>- Мой рост сто шестьдесят девять сантиметров.	- ¿Qué altura tiene?<br>- Mi altura es de 169 centímetros.
+- Вы полная или стройная?<br>- У меня стройная фигура.	- ¿Está Ud. gorda o delgada?<br>- Tengo una figura esbelta.
+- Чьи Это вещи?<br>- Это наши вещи.	- ¿De quién son estas cosas?<br>- Son nuestras cosas.
+- Какой у Вас волосы?<br>-У меня длйнные прямые густые волосы.	- ¿Qué cabellos tiene Ud.?<br>- Tengo cabellos largos, lisos y espesos.
+- Какого типа Ваше лицо?<br>- У меня типично европейское лицо.	- ¿De qué tipo es su cara?<br>- Tengo una típica cara europea.
+- Какого цбета у Вас глаза?<br>- У меня голубые глаза.	- ¿De qué color son sus ojos?<br>- Tengo ojos azules.
+- Какая Вы? Опишите себя.<br>- У меня прямой нос и маленькие уши. У меня длинная шея и тонкая талия.	- ¿Cómo es Ud.? Descríbase.<br>- Tengo la nariz recta y orejas pequeñas. Tengo el cuello largo y una cintura esbelta.
+- Вы слабая или сильная?<br>- Я сильная и энергичная.	- ¿Es Ud. débil o fuerte?<br>- Yo soy fuerte y enérgica.
+- Почему они опаздывают?<br>- Они опаздывают потому что мама в доме отдыха.	- ¿Por qué se retrasan?<br>- Se retrasan porque mamá está en la casa de reposo.
+Скажите, пожалуйста...	Decid/digan, por favor...
+- Как Вас оценивают другие?<br>- Мой муж говорит, что я красивая.	- ¿Cómo la describen los demás?<br>- Mi marido dice que soy linda.
+- Ваш друг Евгений высокий или нихккий?<br>- Он высокого роста.	- ¿Su amigo Yevgeny es alto o bajo?<br>- Es de estatura alta.
+- Какая у него фигура?<br>- Он имеет спортивиую фигуру.	- ¿Qué tipo tiene?<br>- Tiene tipo atlético.
+- У Евгения длиниые или коротке волосы?<br>- У него короткие волистые волосы.	- ¿Yevgeny tiene los cabellos largos o cortos?<br>- Tiene cabellos cortos y ondulados.
+- Какое у него лицо?<br>- У него типично европейское лицо.	- ¿Qué cara tiene?<br>- Tiene una cara típicamente europea.
+- У Вашего друга нос прямой или кривой?<br>- У него прямой нос.	- ¿Su amigo tiene la nariz recta o curva?<br>- Tiene la nariz recta.
+- Он дружелюбиый или нелюдимый?<br>- Он дружелюбиый и энергичиый.	- ¿Es amistoso o insociable?<br>- Es amistoso y enérgico.
+В мае мы были в Эрмитаже.	En mayo estuvimos en el Ermitage.
+В декабре холодно, но нет снега.	Hace frío en diciembre, pero no hay nieve.
+Этот журнал на русском языке а тот журнал на английском языке.	Este periódico está en ruso y ese periódico está en inglés.
+Приятно читатъ эти/те книги.	Es agradable leer estos/esos libros.
+Как вы думаете, Джон понимает по-Русски?	¿Qué creéis, John entiende el ruso?
+Лариса думает/говорит, что Джон хорошо понимает по-русски.	Larisa piensa/dice que John comprende bien el ruso.
+- О чём рассказывает Лариса?<br>- Она рассказывает о её матери и о её дочери.	- ¿De qué habla Larisa?<br>- Habla de su madre y de su hija.
+На чём едут они?<br>	¿En qué (vehículo) van?
+- На чём они едут?<br>- Они едут на машине.	- ¿En qué van?<br>- Van en coche.
+- Куда идёт Нина?<br>- Она идёт домой.	- ¿Adónde va Nina?<br>- Va a casa.
+Сейчас они смотрят телевизор а я смотрю в окно.	Ahora ellos ven televisión y yo miro por la ventana.
+Вот наша улица.<br>Едут машины, идут люди.	He aquí nuestra calle.<br>Pasan coches, camina la gente.
+Сейчас час.<br>Сейчас два часа.<br>Сейчас пять часов.<br>Сейчас двенадцать часов.<br>	Es la una.<br>Son las dos.<br>Son las cinco.<br>Son las doce.
+Который сейчас час?<br>Сколько времени?	¿Qué hora es?
+- Вы женаты или свободны?<br>- Я замужем.	- ¿Es Ud. casada o soltera?<br>- Estoy casada.
+- Как давно Вы замужем?<br>- Уже восемь лет.	- ¿Cuánto tiempo lleva casada?<br>- Siete años ya.
+- Вы живёте с родителями?<br>- Нет, мы живём отдельно.	- ¿Viven Uds. con sus padres?<br>- No, vivimos aparte.
+- Сколько человек в Вашей семье?<br>- Четыре. Я, муж и двое детей.	- ¿Cuántas personas hay en su familia?<br>- Cuatro. Yo, mi marido y dos niños.
+Всё хорошо, что хорошо кончается.	Está bien lo que acaba bien.
+Я чувствую себя плохо.	Me siento mal.
+- Как зовут Вашего мужа?<br>- Его зовут Руслан.	- ¿Cómo se llama su marido?<br>- Se llama Ruslan.
+- Кем он работает?<br>- Он врач.	- ¿De qué trabaja?<br>- Es médico.
+- Как зовут Ваших детей?<br>- Нашего сына зовут Саша, а дочь Настя.	- ¿Cómo se llaman sus hijos?<br>- Nuestro hijo se llama Sasha, y la hija Nastya.
+- Сколько им лет?<br>- Саше три года, а Насте семь лет.	- ¿Cuántos años tienen?<br>- Sasha tiene tres años, y Nastya siete.
+- Как зовут Вашего папу? И сколько ему лет?<br>- Его зовут Александр, ему пятьдесят лет.	- ¿Cómo se llama su padre? ¿Y cuántos años tiene?<br>- Se llama Aleksandr, tiene cincuenta años.
+- Как зовут Вашу маму? И сколько лет ей?<br>- Маму зовут Татьяна, ей сорок пять лет.	- ¿Cómo se llama su madre? ¿Y cuántos años tiene?<br>- Mi madre se llama Tatyana, tiene cuarenta y cinco años.
+- У вас есть брат или сестра?<br>- У меня есть брат Алексей.	- ¿Tiene hermanos o hermanas?<br>- Tengo un hermano, Aleksey.
+- Ваш брат учится или работает?<br>- Он ещё учится, он студент.	- ¿Su hermano estudia o trabaja?<br>- Todavía estudia, es estudiante.
+- У Вас есть тётя или дядя?<br>- У меня есть тётя и два дядя.<br>- Где они живут?<br>- Они живут в деревне.	- ¿Tiene tías o tíos?<br>- Tengo una tía y dos tíos.<br>- ¿Donde viven?<br>- Viven en el campo.
+- Где живут Вашй бабушка и дедушка?<br>- Они тоже живут в деревне.<br>- Сколько им лет?<br>- Им по семьдесят лет.	- ¿Dónde viven su abuela y abuelo?<br>- También viven en el campo.<br>- ¿Cuántos años tienen?<br>- Ambos tienen setenta años.<br>
+- Куда вы едете? - спросила одна.<br>- В Москву, у меня там сын.	- ¿Adónde va Ud.? - preguntó una.<br>- A Moscú, tengo un hijo allí.
+- У вас есть двоюродные братья или сёстры?<br>- У меня есть двоюродная сестра Ольга.	- ¿Tiene primos o primas?<br>- Tengo una prima, Olga.
+- У вас племянники?<br>- У меня нет племянников и племянниц.	- ¿Tiene sobrinos?<br>- No tengo sobrinos ni sobrinas.
+- Ваш друг Евгений женат или свободен?<br>- Он женат во второй раз.	- ¿Su amigo Yevgeniy está casado o soltero?<br>- Está casado por segunda vez.
+- Давно ли он женат?<br>- Он женат всего два месяца.	- ¿Hace mucho que está casado?<br>- Lleva casado dos meses.
+- Как зовут его жену?<br>- Её зовут Ирина.<br>- Сколько ей лет?<br>- Ирине двадцать восемь лет.	- ¿Cómo se llama su mujer?<br>- Se llama Irina.<br>- ¿Cuántos años tiene?<br>- Irina tiene 28 años.
+- Кем она работает?<br>- Она художница.	- ¿De qué trabaja?<br>- Es artista.
+- У них уже есть дети?<br>- Нет, еще нет. Но у него есть сын от первого брака.	- ¿Ya tienen hijos?<br>- No, todavía no. Pero él tiene un hijo de su primer matrimonio.
+- Где живут родители Евгення?<br>- Они живут недалеко от него, на соседней улице.	- ¿Dónde viven los padres de Yevgeniy?<br>- Viven no lejos de él, en la calle de al lado.
+- Дедушка и бабушка Евгения живут отдельно от него?<br>- Да, они живут с его родителями.	- ¿El abuelo y la abuela de Yevgeniy viven separados de él?<br>- Sí, viven con sus padres.
+Я люблю смотреть пьесы в театре, но я обычно смотрю фильмы дома.	Me gusta ver obras en el teatro, pero normalmente veo películas en casa.
+- У Вас дом или квартира?<br>- У меня квартира.	- ¿Tiene casa o apartamento?<br>- Tengo una casa.
+- Сколько в доме этажей?<br>- В доме девять этажей.	- ¿Cuántos pisos hay en la casa?<br>- En la casa hay nueve pisos.
+- Сколько в квартире комнат?<br>- В квартире две комнаты.	- ¿Cuántas habitaciones hay en el apartamento?<br>- En el apartamento hay dos habitaciones.
+- На каком этаже Ваша квартира?<br>- Моя квартира на втором этаже, а на первом находятся магазины.	- ¿En qué piso está su apartamento?<br>- Mi apartamento está en el segundo piso, en el primero (planta baja) hay tiendas.
+- Туалет и ванная у Вас совместные или раздельные?<br>- Туалет и ванная совместные.	- ¿Tiene wáter y baño juntos o separados?<br>- El wáter y el baño están juntos.
+- Есть ли у Вас дома балкон?<br>- Да, у меня два балкона. Один на кухне, другой в зале.	- ¿Hay un balcón en su casa?<br>- Sí, tengo dos balcones. Uno está en la cocina, el otro en el salón.
+- В Вашем доме есть лифт?<br>- Да, есть.	- ¿Hay ascensor en su casa?<br>- Sí, hay uno.
+- Какой у Вас коридор?<br>- Коридор широкий и длинный.	- ¿Cómo es su pasillo?<br>- Mi pasillo es ancho y largo.
+- У Вас дома есть детская комната?<br>- Нет, но скоро будет.	- ¿Tiene una habitación para niños en casa?<br>- No, pero pronto habrá una.
+- Кухня у Вас большая или маленькая?<br>- Моя кухня большая.	- ¿Tiene una cocina grande o pequeña?<br>- Mi cocina es grande.
+- Сколько Вы платите за жильё в месяц?<br>- За квартиру я плачу около шестисот рублей в месяц.	- ¿Cuánto paga de alquiler al mes?<br>- Por el apartamento pago unos seiscientos rublos de alquiler al mes.
+- Евгений живёт в квартире или в своём доме?<br>- Евгений живёт в своём доме.	- ¿Yegveny vive en un apartamento o en su propia casa?<br>- Yegveny vive en su propia casa.
+- Сколько этажей в его доме?<br>- Его дом двухэтажный.	- ¿Cuántos pisos tiene su casa?<br>- Su casa es de dos pisos.
+- Что находится на первом этаже?<br>- На первом этаже находится кухня, ванная, туалет, гостиная и две спальни.	- ¿Qué hay en la planta baja?<br>- En la planta baja hay una cocina, un baño, un servicio, un salón y dos dormitorios.
+- А что находится на втором этаже?<br>- На втором этаже находится детскаа, кабинет, спортзал и бильярдная.	- ¿Y qué hay en el segundo piso?<br>- Hay una habitación para niños, una oficina, un gimnasio y un billar.
+На выхокных мы с мужем ходим в кафе или в гости к друзьям.	Los fines de semana mi marido y yo vamos a una cafetería o de visita a casa de amigos.
+- Во сколько Вы просыпаетесь?<br>- Обычно в шесть утра.	- ¿A qué hora se levanta Ud.?<br>- Normalmente a las seis de la mañana.
+- Что Вы потом делаете?<br>- А иду в ванную. Там я умываюсь, чищу зубы и расчёсываю волосы.	- ¿Qué hace Ud. después?<br>- Voy al baño. Allí me lavo, me cepillo los dientes y me peino.
+- Когда Вы завтракаете?<br>- Сразу после ванной.	- ¿Cuándo desayuna?<br>- Justo después de lavarme.
+- Сколько времени длится Ваш завтрак?<br>- Мой завтрак длится примерно двадцать минут.	- ¿Cuánto tiempo dura su desayuno?<br>- Mi desayuno dura aproximadamente veinte minutos.
+- До которого часа Вы работаете?<br>- С восьми и до пяти.	- ¿Hasta qué hora trabaja Ud.?<br>- De ocho a cinco.
+- Вы идёте на работу сразу после завтрака или нет?<br>- Да, сразу бегу на работу.	- ¿Va al trabajo directamente después del desayuno o no?<br>- Sí, me apresuro en seguida al trabajo.
+- Во сколько Вы выходите из дома на работу?<br>- Я выхожу из дома в семь часов двадцать минут.	- ¿A qué hora sale Ud. de casa para el trabajo?<br>- Salgo de casa a las siete y veinte.
+- Во сколько Вы приходите на работу?<br>- Я прихожу на работу в семь часов сорок пять минут.	- ¿A qué hora llega al trabajo?<br>- Llego al trabajo a las siete cuarenta y cinco.
+- Когда у Вас обеденный перерыв?<br>- Мой обеденный перерыв начинается  в час дня и заканчивается в час сорок пять.	- ¿A qué hora tiene Ud. el descanso del almuerzo?<br>- Mi descanso para el almuerzo comienza a la una y termina a la una cuarenta y cinco.
+- Во сколько Вы возвращаетесь с работы домой?<br>- Я прихожу с работы в шесть часов вечера.	- ¿A qué hora regresa a casa del trabajo?<br>- Llego del trabajo a las seis de la tarde.
+- Что Вы делаете после работы?<br>- Иду в магазин за продуктами, а потом сразу домой.	- ¿Qué hace después del trabajo?<br>- Voy a la tienda por productos, y después directamente a casa.
+- Во сколько Вы ужинаете?<br>- Примерно в семь часов вечера.	- ¿A qué hora cena Ud.?<br>- Aproximadamente a las siete de la tarde.
+- Где Вы обычно ужинаете?<br>- Дома, иногда ходим в ресторан.	- ¿Dónde suele cenar?<br>- En casa, a veces vamos al restaurán.
+- Как долго длится Ваш ужин?<br>- Примерно полчаса.	- ¿Cuánto dura su cena?<br>- Media hora más o menos.
+- Что Вы делаете после ужина?<br>- Люблю посмотреть телевизор.	- ¿Qué hace después de la cena?<br>- Me gusta ver la televisión.
+- Вы на ночь чистите зубы?<br>- Всегда.	- ¿Se cepilla los dientes por la noche?<br>- Siempre.
+- Во сколько Вы ложитесь спать?<br>- Обычно в одннадцать часов я уже сплю.	- ¿A qué hora se acuesta Ud.?<br>- Normalmente a las once ya estoy durmiendo.
+- Во сколько Евгений просыпается утром?<br>- Он встаёт в семь часов тридцать минут.	- ¿A qué hora se despierta Evgeny por la mañana?<br>- Se levanta a las siete treinta.
+- Делает ли он зарядку?<br>- Он делает зарядку каждое утро.	- ¿Hace ejercicio?<br>- Hace ejercicio cada día.
+- Как долго он делает зарядку?<br>- Около полчаса.	- ¿Cuánto tiempo hace ejercicio?<br>- Cerca de media hora.
+- Что Евгений делает после зарядки?<br>- Он идёт в ванную чистить зубы, умываться и бриться.	- ¿Qué hace Evgeny delpués del ejercicio?<br>- Va al baño a cepillarse los dientes, lavarse y afeitarse. 
+- Когда он завтракает?<br>- Обычно он не завтракает. Пьёт только кофе.	- ¿Cuándo desayuna?<br>- No suele desayunar. Solo bebe café.
+- До которого часа он работает?<br>- Он работает с десяти утра и до шести вечера.	- ¿Hasta qué hora trabaja?<br>- Trabaja desde las diez de la mañana hasta las seis de la tarde.
+- Во сколько Евгений выходит из дома на работу?<br>- Он выходит на работу примерно в дебять часов тридцать минут.	- ¿A qué hora sale Yevgeny de casa para el trabajo?<br>- Sale para el trabajo hacia las diez y treinta.
+- Когда у него начинается обеденный перерыв?<br>- Перерыв у него начинается в два часа дня, и заканчивается в два часа сорок пять минут.	- ¿A qué hora comienza el descanso para el almuerzo?<br>- Su descanso para el almuerzo comienza a las dos y temina a las dos cuarenta y cinco.
+- Во сколько Евгений возвращается домой?<br>- Приходит Евгений домой примерно в семь часов вечера.	- ¿A qué hora regresa Yevgeny a casa?<br>- Yevgeny llega a casa hacia las siete de la tarde.
+- В котором часу он ужинает со своей семьёй?<br>- Примерно около восьми часов вечера.	- ¿A qué hora cena con su familia?<br>- Hacia las ocho de la tarde.
+- Сколько времени занимает ужин?<br>- Это занимает у них полчаса.	- ¿Cuánto tiempo lleva la cena?<br>- Les lleva media hora.
+- Чем обычно занимается Евчений после ужина?<br>- После ужина Евгений любит поиграть на компьютере.	- ¿Qué hace Yevgeny después de la cena?<br>- Después la cena a Yevgeny le gusta jugar en la computadora.
+- Во сколько Евгений ложится спать?<br>- Около двенадцати часов ночи.	- ¿A qué hora se acuesta Yevgeny?<br>- Cerca de las doce de la noche.
+Евчений встаёт раньше, чем я.	Evgeny se levanta antes que yo.<br>
+Эта программа более/менее интересная, чем та.	Este programa es más/menos interesante que ese.
+Самое/наименее хорошее кафе нашего города находится на ул. Пушкина.	La mejor/(menos buena) cafetería de nuestra ciudad se encuentra en la calle Pushkin.
+Лена наиболее/наименее умная ученица нашего класса.	Lena es la estudiante más/menos inteligente de la  clase.
+Я здесь. Иди сюда.<br>Она там. Иди туда.<br>Он дома. Иди домой.	Estoy aquí. Ven acá.<br>Estoy ahí. Ve allá.<br>Está en casa. Ve a casa.
+Они внизу. Идите вниз.<br>Мы наверху. Идите наверх.<br>Я сзади. Иди назад.	Están debajo. Id abajo.<br>Estamos encima. Id arriba.<br>Estamos detrás. Ve atrás.
+- В какой стране находится Донецк?<br>- Донецк расположен в стране Украина.<br>- В какой части Украины расположен Донецк?<br>- Донецк расположен в юго-восточной Украине.	- ¿En qué país se encuentra Donetsk?<br>- Donetsk está situado en Ucrania.<br>- ¿En qué parte de Ucrania está situado Donetsk?<br>- Donetsk está situado en la Ucrania sud-oriental.<br>
+Он обожает всё в ней.	Él adora todo en ella.
+Он теряет всё. Мы применяем всё.	Él pierde todo. Nosotros lo usamos todo.
+Я буду читать сегодня после обеда.	Estaré leyendo hoy después del almuerzo.
+В следующим году я прочитаю "Войну и мир".	El año próximo leeré "Guerra y Paz".
+Мы будем иметь дачу.	Tendremos una dacha.
+- Каким морем омывается Украина?<br>- Украина омывается Азовским и Чёрным морем.	- ¿Por qué mar está bañada Ukrania?<br>- Ucrania está bañada por el Mar de Azov y el Mar Negro.
+- Какая река в Украине самая большая?<br>- Днепр - самая река в Украине.	- ¿Cuál es el río más grande de Ucrania?<br>- El Dniéper es el río más grande de Ucrania.
+- Где расположены горы Карпаты?<br>- Карпаты находятся на западе Украины.	- ¿Dónde están situados los montes Cárpatos?<br>- Los Cárpatos se encuentran en el este de Ucrania.
+- Как вы будете делать это?<br>- Я никак не буду делать это.<br>- А я всё-таки буду делать это.	- ¿Cómo hará eso?<br>- No lo haré de ningún modo.<br>- Yo lo haré de todos modos.
+- Какие горы есть на полуострове Крым?<br>- На полуострове Крым располосены Крымские горы.	- ¿Qué montañas hay en la península de Crimea?<br>- En la península de Crimea están los Montes de Crimea.
+- На каком континенте находится Украина?<br>- Украина расположена в Европе.<br>- В какой части Европы расположена Украина?<br>- Украина находится в восточной части Европы.	- ¿En qué continente se encuentra Ucrania_<br>- Ucrania está situada en Europa.<br>- ¿En qué parte de Europa está situada Ucrania?<br>- Ucrania se encuentra en la parte oriental de Europa.
+- Какие континенты кроме Европы Вы знаете?<br>- Кроме Европы есть континенты Азия, Северная и Южная Америка, Африка, Австралия, Антартида.	- ¿Qué continentes conoce aparte de Europa?<br>- Además de Europa existen los continentes de Asia, Norte y Suramérica, África, Australia, Antártida.
+- Какие океаны есть на Земле?<br>- Есть четыре океана - Тихий, Атлантический, Индийский и Северный Ледовитый океан.	- ¿Qué océanos hay en la tierra?<br>- Hay cuatro océanos: Pacífico, Atlántico, Índico y Ártico.
+Некоторые иностранцы думают, что в России медведи ходят по улицам. Конечно, это неправда! Медведи живут в лесу и не любят людей.	Some foreigners think that in Russia bears walk along the streets. Of course, that is not true! Bears live in forests and do not like people.
+Встреча с медведем может быть очень опасна.	An encounter with a bear can be very dangerous.
+Зимой медведи обычно спят, потому что погода слишком холодная и нет еды. Пока медведь спит, он может похудеть на 80 (восемьдесят) килограмм!	During the winter, bears usually sleep because the weather is too cold and there is no food. While sleeping, a bear can lose 80 kilos.
+Русские люди очень похожи на медведей. Зимой они тоже становятся медлительными и много спят, потому что на улице слишком холодно и темно.	Russian people resemble bears very much. In winter they also become slow and sleep a lot because it is too cold and dark outside.
+Поэтому русские любят медведей и называют их "мишки". Миша - это талисман летней олимпиады 1980 (тысяча девятьсот восьмидесятого) года в Москве.	That is why Russians love bears and call them "mishki". Misha is the mascot of the 1980 Summer Olympic Games in Moscow.
+Шутка про медведя	Joke about a bear
+Холодная зима. Медведь бродит по лесу, иногда останавливается, стучит головой о дерево и кричит.	Cold winter. A bear wanders around the forest, stops from time to time, hits its head against a tree and yells.
+- Ну зачем, зачем я пил столько кофе?!	- But why, why did I drink so much coffee?!
+В одном доме живёт коробка. Коробка огромная.	En una casa vive una caja. La caja es enorme.
+Она не знает, какая у неё длина, ширина, высота и объём.	No sabe cuál es su longitud, anchura, profundidad ni volumen.
+Коробка стоит в углу на чердаке двухэтажного Дома. Она переехала в Германию десять лет назад вместе с семьёй инженера Николаева из Росии.	La caja está en una esquina en el desván de una casa de dos pisos. Se mudó a Alemania dese Rusia hace diez años junto a la familia del ingeniero Nikolaev.
+По крайней мере, она слышала, что теперь она живёт в Германии. Но сама она в этом не очень уверена.	Por lo menos, ha oído que ahora vive en Alemania. Pero Ella misma no está muy segura de eso.
+До переезда коробка жила в городе Петербурге на улице Клары Цеткии. И страна называлась "Россия". И все вокруг говорили по-русски.	Hasta la mundanza la caja vivió en la ciudad de San Petersburgo. El país se llamaba "Rusia". Y todos lo de alrededor hablaban ruso.
+А теперь она проживает в городе Мирове на улице Юрия Гагарина. И страна называется "Германия". Здесь все говорят по-немецки. Коробка совсем запуталась.	Y ahora vive en la ciudad de Mirov, en la calle Yuri Gagarin. El país se llama "Alemania". Aquí todos hablan alemán. La caja está totalmente perpleja.
+Раньше коробка принадлежала маленькому мальчику по имени Игорь. Но все называли его Гариком.	Antes la caja pertenecía a un chico joven de nombre Igor. Pero todos lo llamaban Garik.
+Сегодня Игорь - студент. Он учится в университете имени Гумбольдта в Берлине, на физико-математическом факультете.	Hoy en día Igor es estudiante. Estudia en la universidad llamada Humboldt en Berlín, en la facultad de Físicas y Matemáticas.
+Игорь изучает информатику. Он хочет стать программистом.	Igor estudia informática. Quiere llegar a ser programador.
+Игорь  знает о компьютере бсё. Что такое монитор. Что такое жёсткий диск. Как писать программы. Как работает интернет.	Igor sabe todo sobre computadoras. Qué es una pantalla. Qué es un disco duro. Cómo escribir programas. Cómo funciona internet.
+А о каробке он совсем забыл. Но коробка не чувствует себя одинокой.	Y ha olvidado totalmente a la caja. Pero la caja no se siente sola.
+В ней хранится много интересных вещей, которые рассказыбают ей каждый день разные истории.	En ella se guardan muchas cosas interesantes, que cada día le cuentan diferentes historias.
+Самый большой друг коробки - серый плюшевый заяц. Он живёт в ней очень давно.	El mejor ("mayor") amigo de la caja es un conejo de peluche gris. Hace mucho que vive dentro de ella.
+Заяц поселился в коробке, когда она была совсем молодой.	El conejo se afincó en la caja, cuando ella era muy joven.
+Серный заяц - маленький и толстый/тонкий.	El conejo gris es pequeño y gordo/delgado.
+У него длинные уши, два маленьких глаза и смешной чёрный нос.	Tiene orejas largas, dos ojos pequeños y una graciosa nariz negra.
+У зайца четыре лапы. Он держит в них морковку.	El conejo tiene cuatro patas. En ellas sostiene una zanahoria.
+Заяц весь серый, а лапы у него синие. Это маленький Игорь (тогда ещё Гарик) поркасил их в ц<br>синий цвет. Совершенно случайно, конечно.	Es conejo es totalmente gris, pero tiene patas azules. El pequeño Igor (entonces todavía Garik) las pintó de color azul. Totalmente por casualidad por supuesto.
+- Какая у Вас кухня?<br>- Моя кухня большая и удобная.	- ¿Cómo es su cocina?<br>- Mi cocina es grande y cómoda.
+- У Вас есть холодильник? Какой он?<br>- Да, есть. В нём есть хорошая морозильная камера.	- ¿Tiene frigorífico? ¿Cómo es?<br>- Sí tengo. En él hay un buen congelador.
+- Где стоит Ваш холодильник?<br>- Он стоит в углу.	- ¿Dónde está su frigorífico?<br>- Está en la esquina.
+- У Вас есть тостер или блендер?<br>- У меня есть тостер, блендер и миксер.	- ¿Tiene Ud. tostadora?<br>- Tengo tostadora, licuadora y batidora.
+- Где они находятся?<br>- Блендер и миксер стоят на полке. А тостер на столе.	- ¿Dónde se encuentran?<br>- La licuadora y la batidora están en el estante. Y la tostadora sobre la mesa.
+- У Вас есть кофеварка?<br>- Да, у меня есть кофеварка. Я очень люблю кофе.	- ¿Tiene Ud. cafetera?<br>- Sí, tengo cafetera. Me gusta mucho el café.
+- У Вас есть микроволновая печь?<br>- Есть. Я в ней обычно разогреваю обед.	- ¿Tiene Ud. horno microondas?<br>- Lo tengo. Suelo calentar el almuerzo en él.
+- Где расположена микроволновка?<br>- Она расположена возле тостера.	- ¿Dónde está su microondas?<br>- Está cerca de la tostadora.
+- У Вас на кухне есть мебель?<br>- В центре кухни стоит стол и несколько стульев.	- ¿Tiene muebles en la cocina?<br>- En medio de la cocina hay una mesa y algunas sillas.
+- У Вас на кухне есть элетроника?<br>- На стене у меня висит телевизор.	- ¿Tiene aparatos electrónicos en la cocina?<br>- Un televisor cuelga de la pared.
+- У Вас печь газовая или электрическая?<br>- Моя печь газовая.	- ¿Tiene horno de gas o eléctrico?<br>- Mi horno es de gas.
+- У Вас на кухне только холодная или горячая вода есть?<br>- На кухне есть и холодная, и горячая вода.	- ¿Tiene Ud. solo agua fría o también caliente?<br>- En la cocina hay agua fría y caliente.
+Только глупцы могут быть уверены.	Solo los tontos pueden tener certeza.
+В общем, он просто грязнуля.	En resumen, es un descuidado.
+На протяжении вечера он играет на компьютере.	Durante la tarde juega en la computadora.
+- Это хороший ответ.<br>- Хороший? Превосходен!	- Es una buena respuesta.<br>- ¿Buena? ¡Es perfecta!
+- Вы любите купаться?<br>- Я очень люблю купаться.	- ¿Le gusta bañarse?<br>- Me gusta mucho bañarme.
+- Вы обычно принимаете банну или душ?<br>- Обычно я принимаю душ, но иногда люблю и в ванне полежать. 	- ¿Suele Ud. bañarse o ducharse?<br>- Suelo ducharme, pero a veces me gusta tumbarme en la bañera.
+- Вы моете руки, когда возвращаетесь с улицы?<br>- Всегда мою руки после улицы.	- ¿Se lava las manos cuando vuelve de la calle?<br>- Siembre me lavo las manos después de estar en la calle.
+- Вы умываетесь только утром или вечером тоже?<br>-  Я умываюсь и утром и вечером.	- ¿Se lava Ud. solo por la mañana o también por la tarde?<br>- Me lavo tanto por la mañana como por la tarde.
+- Часто Вы меняете носки?<br>- Я меняю носки каждый день.	- ¿Se cambia a menudo de calcetines?<br>- Me cambio de calcetines cada día.
+- Как часто Вы стираете свою одежду?<br>- Я стираю одежду каждую неделю.	- ¿Con qué frecuencia lava su ropa?<br>- Lavo la ropa cada semana.
+- Как часто Вы купаетесь?<br>- Я купаюсь утром и вечером.	- ¿Cada cuánto se baña o ducha Ud.?<br>- Me baño por la mañana y por la tarde.
+- Сколько раз в день Вы чистите зубы?<br>- Я чищу зубы два раза в день.	- ¿Cuántas veces al día se cepilla Ud. los dientes?<br>- Me cepillo los dientes dos veces al día.
+- Вы часто чистите свою обувь?<br>- А чищу свою обувь каждый день.	- ¿Cepilla Ud. sus zapatos a menudo?<br>- Cepillo mis zapatos cada día.
+- Ваш знакомый любит купаться?<br>- Мой знакомый не любит купаться.	- ¿A su conocido le gusta bañarse?<br>- A mi conocido no le gusta bañarse.
+- Он моет руки перед едой?<br>- Нет, он не моет руки перед едой.	- ¿Se lava las manos antes de comer?<br>- No, no se lava las manos antes de comer.
+- Почему он этого не делает?<br>- Говорит, что это напрасная трата времени.	- ¿Por qué no lo hace?<br>- Dice que es una pérdida de tiempo.
+- Как часто он моется?<br>- Моется он обычно один раз в несколько дней.	- ¿Con qué frecuencia se lava?<br>- Suele lavarse una vez cada varios días.
+- Чистит он зубы два раза в день?<br>- Он чистит зубы только когда вспоминает об этом.	- ¿Se cepilla los dientes dos veces al día?<br>- Solo se cepilla los dientes cuando se acuerda.
+- Ваш знокомый носки меняет каждый день?<br>- Носки он может не менять неделю.	- ¿Su conocido se cambia de calcetines cada día?<br>- Puede no cambiarse de calcetines durante una semana.
+В детстве Игорь мечтал стать художником. Он любил рисовать.	En la niñez Igor soñaba con llegar a ser artista. Le encantaba pintar.
+Гарик очень много рисовал. А серный заяц всегда сидел рядом. Он наблюдал за Гариком.	Garik dibujaba mucho. Y el conejo gris siempre estaba sentado a su lado. Observaba a Garik.
+Гарик рисовал природу: зелёный лес, жёлтое солнце, голубое небо, белые облака, коричневые горы.	Garik pintaba la naturaleza: el bosque verde, el sol amarillo, el cielo azul, las nubes blancas, las montañas marrones.
+Картина, на которой нарисована природа, называется «пейзаж».	Una ilustración en la que está pintada la naturaleza, se llama "paisaje".
+Однажды Гарик захотел нарисовать морской пейзаж.	Una vez Garik quiso pintar un paisaje marino.
+Море, волны, берег и солнце уже были готовы.	El mar, las olas, la orilla y el sol ya estaban terminados.
+Обычные вопросы и ответы	Preguntas y respuestas habituales
+- Какая улица, на которой живёт Аня?<br>- Её улица широкая и длинная.	- ¿Cómo es la calle en la que vive Ana?<br>- Su calle es ancha y larga.
+- Что находится возле её дома?<br>- Возле её дома расположен детский сад.	- ¿Qué hay junto a su casa?<br>- Junto a su casa se encuentra un jardín de infancia.
+- Есть ли на улице школа?<br>- Да. На улице есть школа. Она расположена за продуктовым магазином.	- ¿Hay una escuela en la calle?<br>- Sí. En la calle hay una escuela. Está situada detrás de la tienda de alimentos.
+- Что находится между обувным магазином и детским садом?<br>- Между обувным магазином и детским садом находится кафе.	- ¿Qué hay entre la zapatería y el jardín de infancia?<br>- Entre la zapatería y el jardín de infancia hay una cafetería.
+- Есть ли на Аниной улице почта?<br>- Есть, она расположена около рынка.	- ¿Hay una oficina de correos en la calle de Ana?<br>- La hay, está situada junto al mercado.
+Как вдруг - шпёл... И заяц упал прямо в море. Точнее, на море, которое было нарисовано на картикне.	Y de repente - splash... El conejo se cayó directamente en el mar. En concreto, en el mar que estaba pintado en el dibujo.
+Синяя краска не успела высохнуть да так и осталась у него на лапах.	La pintura azul todavía no se ha secado y de ese modo se quedó en sus patas.
+- Есть ли перекрёстки на улице?<br>- Есть. Один перекрёсток находится около дома Ани.	- ¿Hay cruces en la calle?<br>- Sí. Hay una intersección junto a la casa de Ana.
+- На этом перекрёстке есть светофор?<br>- Нет, светофора на перекрёстке нет.	- ¿En ese cruce hay un semáforo?<br>- No no hay semáforos en el cruce.
+- Сколько банков на Аниной улице?<br>- На её улице расположено два банка.	- ¿Cuántos bancos hay en la calle de Ana?<br>- En su calle hay situados dos bancos.
+- На улице есть площадь?<br>- Нет, но там есть центральный рынок.	- ¿Hay una plaza en la calle?<br>- No, pero está el mercado central.
+- Какой транспорт останавливается на остановке, что возле её дома?<br>- На этой остановке останавливается троллейбус номер восемь и много автобусов.	- ¿Qué medio de transporte para en la parada cercana a su casa?<br>- En esa parada para el trolebús número ocho y muchos autobuses.
+- Что расположено перед рынком?<br>- Перед рынком расположен университет.	- ¿Qué está situado delante del mercado?<br>- Frente al mercado está situada la universidad.
+Поступки говорят громче, чем слова.	Las acciones hablan más algo que las palabras.
+И солнце и дождь нужны для прекасной радуги.	Hacen falta tanto el sol como la lluvia para que haya un bello arco iris.
+- Вы ездите на работу пересадками или без?<br>- Я езжу на работу с пересадкой.	- ¿Usted tansborda al ir al trabajo?<br>- Transbordo al ir al trabajo.
+Есть три типа мужчни, которые не понимают женщин: молодые, старые и среднего возраста.	Hay tres tipos de hombres que no entienden a las mujeres: jóvenes, viejos y de mediana edad.
+Я ещё не чувствую возраста. У души нет возраста.	Todavía no siento la edad. El espíritu no tiene edad.
+Каждый день медленно изменяет нашу жизнь, как капающая вода изменяет камень.	Cada día moldea lentamente nuestra vida, como el agua que gotea moldea la piedra.
+- Каким транспортом Вы ездите на работу?<br>- Я сажусь на автобус номер два.	- ¿Con qué transporte va Ud. al trabajo?<br>- Me monto en el autobús número dos.
+Учитель: Твоё правописание намного лучше. На этот раз только пять ошибок.<br>Ученик: Спасибо.<br>Учитель: Теперь давай перейдёмк следующему слову.	Maestro: Tu ortografía es mucho mejor. Esta vez solo cinco errores.<br>Alumno: Gracias.<br>Maestro: Ahora pasemos a la siguiente palabra.
+- Сколько остановок Вы на нём проезжаете?<br>- Я еду три остановки, затем выхожу.	- ¿Por cuántas paradas pasa?<br>- Paso por tres paradas, y después me bajo.
+- На какой остановке Вы выходите?<br>- Выхожу на остановке «Парк».	- ¿En qué parada se baja?<br>- Me bajo en la parada "Parque".
+- На что Вы там пересаживаетесь?<br>- Там я пересаживаюсь на троллейбус номер пять.	- ¿A qué vehículo transborda?<br>- Allí transbordo al trolebús número cinco.
+- Как долго Вы едете на троллейбусе?<br>- На троллейбусе я еду около пяти минут.	- ¿Cuánto tiempo viaja en trolebús?<br>- En el trolebús viajo unos cinco minutos.
+- Сколько времени у Вас занимает дорога на работу?<br>- Около двадцати минут.	- ¿Cuánto tiempo dura el trayecto al trabajo?<br>- Unos veinte minutos.
+- Есть ли у Вас другой путь добраться на работу?<br>- Есть. Можно добраться на трамвае номер один. Затем на автобусе номер сорок два.	- ¿Tiene otra ruta para llegar al trabajo?<br>- Sí. Se puede llegar con el tranvía número uno. Después conel autobús 42.
+- А сколько этот путь занимает времени?<br>- Этот дольше. Около сорока минут.	- ¿Cuánto tiempo dura esa ruta?<br>- Es más larga. Unos 40 minutos.
+- От остановки далеко идти до работы?<br>- Нет, всего минуту.	- ¿Hay que caminar mucho hasta el trabajo?<br>- No, solo un minuto.
+- Каким транспортом Евчений добирается до работы?<br>- Евчений не ездит на работу. Он ходит пешком.	- ¿Qué vehículo utiliza Yevgeny para ir al trabajo?<br>- Yevgeny no va en vehículo. Va a pie.
+- Сколько времени Евчений тратит на дорогу?<br>- Дорога на работу у него занимает пятнадцать минут.	- ¿Cuánto tiempo tarda Yevgeny por el camino?<br>- El trayecto al trabajo le lleva 15 minutos.
+- Заходит ли куда-нибудь Евчений по пути на работу?<br>- Каждое утро он заходит в магазин купить кофе и булочку.	- ¿Se para Yevgeny en algún lugar de camino al trabajo?<br>- Cada mañana para en una tienda a comprar café y una magdalena.
+- Что есть в зале?<br>- В этой комнате есть много мевели.	- ¿Qué hay en el salón?<br>- En esa habitación hay muchos muebles.
+- Что стоит в правом углу комнаты?<br>- В правом углу комнаты стоит диван. Он большой и удобный.	- ¿Qué hay en la esquina derecha de la habitación?<br>- En la esquina derecha de la habitación hay un sofá. Es grande y cómodo.
+Время летит, но помни - ты навигатор.	El tiempo vuela, pero recuerda: tú eres el piloto.
+Ты не знаешь куда упадёт твоя тень.	No sabes dónde caerá tu sombra.
+Твоя поэма худшая в кассе.	Tu poema es el peor de la clase.
+Учитель: Сколько книг ты закончил этим летом?<br>Ученик: Ни одной. Мой брат украл мою коробку с карандашами.	Maestro: ¿Cuántos libros terminaste este verano?<br>Alumno: Ni uno. Mi hermano me robó la caja de los lápices.
+- Есть ли что-нибудь на стене папротив дивана?<br>- Напротив дивана на стене висит телевизор.	- ¿Hay algo en la pared frente al sofá?<br>- Frente al sofá un televisor cuelga de la pared.
+- Много цветов у Ани в этой комнате? Где они находятся?<br>- Много цветов в вазах стоят на полу около окна.	- ¿Ana tiene muchas flores en su habitación? ¿Dónde se encuentran?<br>- Hay muchas flores en jarrones en el suelo junto a la ventana.
+- Что ещё есть на стенах зала?<br>- Несколько картин, которые Аня сама соткала, висит на стенах комнаты.	- ¿Qué más hay en las paredes del salón?<br>- Algunas imágenes que Ana misma ha tejido cuelgan de las paredes del salón.
+- Что расположено в углу комнаты?<br>- В углу расположен домик Аниной кошки.	- ¿Qué está situado en la esquina de la habitación?<br>- En la esquina se encuentra la casita de la gata de Ana.
+- Где стоит DVD?<br>- Он стоит под телевизором на тумбочке.	- ¿Dónde está el DVD?<br>- Está bajo el televisor, en una vitrina.
+- Что находится слева от дивана?<br>- Слева от дивана стоит книжный шкаф. В нём много разных кинг.	- ¿Qué hay a la izquierda del sofá?<br>- A la izquierda del sofá hay una librería. En ella hay muchos libros diferentes.
+- Есть ли столик в комнате?<br>- Да. Он расположен напротив дивана.	- ¿Hay una mesa en la habitación?<br>- Sí. Está situada frente al sofá.
+- А что находится в левом углу комнаты?<br>- В левом углу комнаты стоит большое кресло.	- ¿Y qué se encuentra en la esquina izquierda de la habitación?<br>- En la esquina izquierda de la habitación hay un gran sillón.
+- Что расположено возле кресла?<br>- Возле кресла стоит торшер.	- ¿Qué está situado junto al sillón?<br>- Junto al sillón hay una lámpara de pie.
