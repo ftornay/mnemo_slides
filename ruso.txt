@@ -75,7 +75,7 @@ IA͡	Russian Cyrillic: Я<br>я
 Она не любит хеле	A ella no le gusta la gelatina
 Я говорю по-русски	Yo hablo [en] ruso
 Вы говорите по-французски	Vosotros habláis [en] francés
-Он говорит по-английски	Él habla [en] ruso
+Он говорит по-английски	Él habla [en] inglés
 Кто говорит по-итальянски?	¿Quién habla [en] italiano?
 Никто не говорит по-немецки	Nadie habla [en] alemán
 Что вы говорите?	¿Qué dice usted?
@@ -269,10 +269,10 @@ Eё Дядя и тётя дома. Её кот и собака тоже дома
 В декабре холодно, но нет снега.	Hace frío en diciembre, pero no hay nieve.
 Этот журнал на русском языке а тот журнал на английском языке.	Este periódico está en ruso y ese periódico está en inglés.
 Приятно читатъ эти/те книги.	Es agradable leer estos/esos libros.
-- Вы меня понимаете?<br>- Да, я вас понимаю, если вы говорите мелленно.	- ¿Me entiende Ud.?<br>- Sí, le entiendo, si habla despacio.
+- Вы меня понимаете?<br>- Да, я вас понимаю, если вы говорите медленно.	- ¿Me entiende Ud.?<br>- Sí, le entiendo, si habla despacio.
 - Это очень хорошо, но я не говорю быстро.<br>- Спасибо; вы очень любезны.<br>- Пожалуйста; я всегда рад помочь.	- Eso está muy bien, pero yo no hablo rápido.<br>- Gracias; es Ud. muy amable.<br>- De nada; estoy siempre contento de ayudar.
-- Я голоден; где здесъ ресторан?<br>- Я тоже голоден; вот ресторан.	- Tengo hambre; ¿dónde hay un restaurante?<br>- Yo también tengo hambre; aquí hay un restaurante.
-- Здравствуйте, Мишелб, как вы поживаете?<br>- Хорошо, спасибо.	- Buenos días, Michel. ¿Cómo está Ud.?<br>- Bien, gracias.
+- Я голоден; где здесь ресторан?<br>- Я тоже голоден; вот ресторан.	- Tengo hambre; ¿dónde hay un restaurante?<br>- Yo también tengo hambre; aquí hay un restaurante.
+- Здравствуйте, Мишель, как вы поживаете?<br>- Хорошо, спасибо.	- Buenos días, Michel. ¿Cómo está Ud.?<br>- Bien, gracias.
 - Где ваш папа?<br>- Избините, я не знаю, где он, но мама дома; может быть, она знает...	- ¿Dónde está su padre de Ud.?<br>- Perdone, no sé dónde está pero mi madre está en casa; puede ser que ella lo sepa...
 - Нет, спасибо, я её не знаю, а ваш папа, скоро будет дома?<br>- Кто его знает! Может быть сегодня, может быть завтра!	- No, gracias, no la conozco, y su padre, ¿estará pronto en casa?<br>- ¡Quién sabe! Quizás enseguida, quizás mañana.
 - Вы хотите мне что-то сказатъ?<br>- Почему вы так думаете?<br>- Потому что я вас хорошо знаю.<br>	- ¿Quiere Ud. decirme algo?<br>- ¿Por qué piensa eso?<br>- Porque lo conozco bien.
@@ -295,7 +295,7 @@ Eё Дядя и тётя дома. Её кот и собака тоже дома
 - У вас есть спички?<br>- Да, есть.<br>- Спасибо.	- ¿ Tiene fósforos?<br>- Sí.<br>- Gracias.
 - У меня дома есть для вас письмо; может быть, вы хотите взать его сейчас?<br>- Нет, спасибо, мне сейчас некогда; но вот к вам идёт мой друг, Иван Иванович.	- Tengo en casa una carta para Ud. ¿Quizás quiera (re)cogerla ahora mismo?<br>- No, gracias, no tengo tiempo ahora; pero resuta que a su casa va mi amigo, Ivan Ivanovitch.
 Дайте ему, пожалуйста, это письмо.	Dele esa carta, por favor.
-- Хорошо. Кстати, ваш друг играет в футбол?<br>- Да, возмохно. Он очень любит<br>спорт.	- Bien. A propósito, ¿su amigo juega al fútbol?<br>- Sí, es posible. Le gusta mucho el deporte.
+- Хорошо. Кстати, ваш друг играет в футбол?<br>- Да, возможно. Он очень любит<br>спорт.	- Bien. A propósito, ¿su amigo juega al fútbol?<br>- Sí, es posible. Le gusta mucho el deporte.
 Я тоже люблю спорт; но, извините, мне некогда, мне нужнo идти на работу.	A mí también me gusta el deporte; pero disculpe, no tengo tiempo, debo ir al trabajo.
 - Вы сегодня работаете?<br>- Да, я сегодня работаю. До свидания.<br>- Всего хорошего.	- ¿Trabaja Ud. hoy?<br>- Sí, trabajo hoy. Hasta la vista.<br>- Buena suerte.
 Как вы думаете, Джон понимает по-Русски?	¿Qué creéis, John entiende el ruso?
@@ -304,11 +304,11 @@ Eё Дядя и тётя дома. Её кот и собака тоже дома
 Николай Иванович завтра идёт в театр. У него естъ билет для меня.	Nikolai Ivánovich va mañana al teatro. Tiene un boleto para mí.
 Значит, вы идёте в театр. Что там савтра играют?	Así pues ("quiere decir"), va Ud. al teatro. ¿Qué interpretan ("juegan") allí mañana?
 Я ещё не знаю, но Николай Иванович говорит, что там есть очень хороший актёр и роль как раз для него.	No sé todavía, pero Nikolai Ivánovich dice que allí hay un actor muy bueno y el papel es justamente para él.
-- А что вы делаете сегодня?<br>- Сегодня меня ждёт сестра; Я у неё оведаю.	- ¿Y qué hace Ud. hoy?<br>- Hoy me espera mi hermana; almuerzo en su casa.
+- А что вы делаете сегодня?<br>- Сегодня меня ждёт сестра; Я у неё обедаю.	- ¿Y qué hace Ud. hoy?<br>- Hoy me espera mi hermana; almuerzo en su casa.
 Жаль. Вы, говорют, очень хорошо играете в теннис, и я уже давно хочу сыграть с вами.	Lástima. Ud., dicen, juega bien al tenis y yo ya hace tiempo que quiero jugar con Ud.
-- Я тоже, но сегодня, увы, не могу.<br>- Жалъ, конечно, но делать нечего; ладно, в другой раз.	- Yo también, pero hoy, por desgracia, no puedo.<br>- Lástima, desde luego, pero no hay nada que hacer; de acuerdo, para otra vez.
+- Я тоже, но сегодня, увы, не могу.<br>- Жаль, конечно, но делать нечего; ладно, в другой раз.	- Yo también, pero hoy, por desgracia, no puedo.<br>- Lástima, desde luego, pero no hay nada que hacer; de acuerdo, para otra vez.
 Она очень хочет вас видеть; когда и где вы можете её принять?	Ella tiene muchas ganas de verlo a Ud.; ¿Cuándo y dónde puede recibirla?
-Скажите ей, что я сегодня целый день дома, но могу говорить с ней толъко десятъ минут, не вольше; как вы знаете, я сейчас очень занят.	Dígale que hoy estoy todo el día en casa, pero solo puedo hablar con ella 10 minutos, no más; como sabe, ahora estoy muy ocupado.
+Скажите ей, что я сегодня целый день дома, но могу говорить с ней только десятъ минут, не вольше; как вы знаете, я сейчас очень занят.	Dígale que hoy estoy todo el día en casa, pero solo puedo hablar con ella 10 minutos, no más; como sabe, ahora estoy muy ocupado.
 - Хорошо, я ей скажу; А если она сегодня не может?<br>- Тогда послезавтра.	- Bien, se lo diré; ¿Y si no puede hoy?<br>- Entonces pasado mañana.
 - А что именно она хочет?<br>- Она думает, что вы можете найти ей место, потому что вы здесь уже давно и хорошо знаете город.	- ¿Pero qué quiere exactamente?<br>- Piensa que Ud. puede encontrarle un lugar, porque Ud. está aquí desde hace ya tiempo y conoce bien la ciudad.
 - Она инженер?<br>- Да, у неё есть французский диплом; она парижанка и свободно говорит по-французски и по-английски.	- ¿Es ingeniera?<br>- Sí, tiene un diploma francés; es parisina y habla fluidamente ("libremente") francés e inglés.
@@ -316,7 +316,7 @@ Eё Дядя и тётя дома. Её кот и собака тоже дома
 - А кто ещё может её рекомендовать?<br>- Здесь её ещё никто не знает.	- ¿Y quién más ("todavía") puede recomendarla?<br>- Aquí no la conoce nadie todavía.
 Мне ещё трудно учить русский язык.	Me es todavía difícil aprender la lengua rusa.
 - Почему трудно? Вы ведь не учите каждый урок наизусть?<br>- Нет, но я часто забываю, что значит то или другое слово.	- ¿Por qué es difícil? ¿Ud. sin embargo no aprende cada lección de memoria?<br>- No, pero a menudo olvido qué quiere decir esta o la otra palabra.
-Это нормалью; говорят, что надо сначала семь раз забыть одно слово, чтобы потом хорошо его знать.	Es normal; dicen que hay que olvidar primero siete veces una palabra para después conocerla bien.
+Это нормально; говорят, что надо сначала семь раз забыть одно слово, чтобы потом хорошо его знать.	Es normal; dicen que hay que olvidar primero siete veces una palabra para después conocerla bien.
 - Я повторяю каждый урок пять или шесть раз, и мне кажется, что я начинаю свободно читать.<br>- Молодец! Так и надо делать! Надо всё бремя повторять ещё и ещё.	- Yo repito cada lección 5 ó 6 veces, y me parece que comienzo a leer fluidamente.<br>- ¡Bravo! ¡Así hay que hacer! Hay que repetir una y otra vez todo el tiempo.
 Учитъ русский язык трудно, но выучить его всё-таки можно.	Sí, aprender el ruso es difícil, pero de todos modos es posible llegar a aprenderlo.
 На чём едут они?<br>	¿En qué (vehículo) van?
@@ -326,7 +326,7 @@ Eё Дядя и тётя дома. Её кот и собака тоже дома
 Вот наша улица.<br>Едут машины, идут люди.	He aquí nuestra calle.<br>Pasan coches, camina la gente.
 Сейчас час.<br>Сейчас два часа.<br>Сейчас пять часов.<br>Сейчас двенадцать часов.<br>	Es la una.<br>Son las dos.<br>Son las cinco.<br>Son las doce.
 Который сейчас час?<br>Сколько времени?	¿Qué hora es?
-- Ка дела, Коля?<br>- Плохо, Миша. У меня плохое настроение.	- ¿Cómo te va, Kolia?<br>- Mal, Misha. Estoy de ("tengo") mal ánimo.
+- Как дела, Коля?<br>- Плохо, Миша. У меня плохое настроение.	- ¿Cómo te va, Kolia?<br>- Mal, Misha. Estoy de ("tengo") mal ánimo.
 - В чём дело? Может быть, я могу вам помочь?<br>- Вряд ли. Дело в том, что Лида давно не пишет. Вот уже целый месяц. Не могу понять, в чём дело.	- ¿De qué se trata? Quizás pueda ayudarlo.<br>- Es poco probable. Se trata de que Lida hace mucho que no escribe. Ya hace un mes entero. No puedo comprender de qué se trata.
 - А вы ей пишете?<br>- Нет, не пишу. Дело в том, что не знаю её адреса.<br>- Да, это трудиый случай.	- ¿Y Ud. le escribe?<br>- No, no escribo. Es que no sé su dirección.<br>- Sí, es un caso difícil.
 - А вот как раз почтальон. И вам письмо.<br>- Да, это письмо от неё, от Лиды.	- Pero justamente aquí está el cartero. Y una carta para Ud.<br>- Sí, es una carta de ella, de Lida.
@@ -335,7 +335,7 @@ Eё Дядя и тётя дома. Её кот и собака тоже дома
 - Вы не думаете, что пора обедать? Мне очень хочется есть.	- ¿No cree que es hora de almorzar? Tengo muchas ganas (de comer).
 - Что касается меня, я совсем не голоден, но сегодна жаркая погода, и мне всё врема хочется пить.	- En lo que a mí respecta, no tengo nada de hambre, pero hoy hace calor y tengo ganas de beber todo el tiempo.
 - Что вы пьёте? Вот лимонад, вот квас; если хотите, есть даже водка и закуски.	- ¿Qué bebe Ud.? Aquí tiene limonada, aquí kvas; si quiere, hay hasta vodka y entremeses.
-- Спасибо, я сажусь за стол. Мне сkоро нужно идти на работу.	- Gracias, me siento a ("tras") la mesa. Debo irme pronto al trabajo.
+- Спасибо, я сажусь за стол. Мне скоро нужно идти на работу.	- Gracias, me siento a ("tras") la mesa. Debo irme pronto al trabajo.
 Мой шеф нетерпеливый человек и не лювит ждать.	Mi jefe es un hombre impaciente y no le gusta esperar.
 Всё готово. Дабайте обенать.	Está todo listo. Almorcemos.
 - Скоро лето; уже очень жарко; пора совираться на дачу.<br>- Да, наша дача ждёт нас.	- Pronto (será) verano; hace ya mucho calor; es hora de prepararse para ir a la dacha.<br>- Sí, nuestra dacha nos espera.
@@ -349,7 +349,7 @@ Eё Дядя и тётя дома. Её кот и собака тоже дома
 Да, я вижу, что он не играет на рояле, не поёт. В чём дело?	Sí, veo que no toca el piano, no canta. ¿De qué se trata?
 Может быть, дело в том, что его жена не любит, когда он играет и поёт.	Puede ser que se trate de que a su mujer no le gusta, cuando toca y canta.
 - Вы хотите сказать, она не понимает, что её муж артист.	- Quiere Ud. decir que ella no comprende que su marido es un artista.
-- Я думаю, она не понимает, что у него талант. Ей всё равно. Петь, играть, для неё то же самое, что не работать, всё врема отдыхать.	- Creo que no comprende que tiene talento. Le da totalmente igual. Cantar, tocar, para ella es lo mismo que no trabajar, descansar todo el tiempo.
+- Я думаю, она не понимает, что у него талант. Ей всё равно. Петь, играть, для неё то же самое, что не работать, всё время отдыхать.	- Creo que no comprende que tiene talento. Le da totalmente igual. Cantar, tocar, para ella es lo mismo que no trabajar, descansar todo el tiempo.
 - Хочешь петь со мной, дорогая? - спрашивает её Саша.<br>- Мне некогда! - грубо отвечает она.	- ¿Quieres cantar conmigo, querida? - le pregunta Sasha.<br>- ¡No tengo tiempo! - responde ella groseramente.
 Я работаю целый день, а ты всё время отдихаешь.	Yo trabajo el día entero y tú descansas todo el tiempo.
 - Белный Саша! Вель для него это тоже работа, а не отдых, не так ли?<br>- Согласен с вами. Нужно ему помочь. Но как?	- ¡Pobre Sasha! Es que para él es también un trabajo, y no descanso, ¿no es así?<br>- Estoy de acuerdo con Ud. Hay que ayudarlo. ¿Pero cómo?
@@ -358,22 +358,22 @@ Eё Дядя и тётя дома. Её кот и собака тоже дома
 - Сколько лет вашему ребёнку?<br>- Ему шесть лет.	- ¿Cuántos años tiene su niño?<br>- Tiene seis años.
 Игрушки у нас винзу; вот там...	Tenemos los juguetes abajo; ahí están... ("he aquí allí")
 Эта игрушка хорошая, но это не то, что я хочу... вот эта лучше.	Este juguete es bueno, pero no es lo que busco... este de aquí es mejor.
-- Сколько она стоит?<br>- Девать рублей.<br>- Жаль, это для меня слишком дорого. Я ищу дешёвый подарок.	- ¿Cuánto cuenta este?<br>- Nueve rublos.<br>- Lástima, es demasiado caro. Busco un regalo barato.
+- Сколько она стоит?<br>- Девять рублей.<br>- Жаль, это для меня слишком дорого. Я ищу дешёвый подарок.	- ¿Cuánto cuenta este?<br>- Nueve rublos.<br>- Lástima, es demasiado caro. Busco un regalo barato.
 - Вот красивая кукла и цена невольшая: пятъ рувлей.	- Aquí hay una bonita muñeca y el precio no es grande: 5 rublos.
 - Покажите, пожалуйста... Да, эта кукла мне нравитса. Конечно, тоже дорого. Ну, ладно, беру.	Muéstreme, por favor... Sí, esta muñeca me gusta. Por supuesto, también caro. Bueno, la tomo.
 - Что это вы гуляете без пальто! Неужели вам не холодно?<br>- Немного холодно, но ничего. Пальто у меня не готово, оно вудет готово завтра.	- ¡Cómo se pasea Ud. sin abrigo! ¿De verdad no tiene frío?<br>- Un poco de frío, pero no es nada. Mi abrigo no está listo, estará listo mañana.
-- Нельзя без пальто; уже мороз. Вы можете простудиться.<br>- Не беспокойтесъ, у меня тёплый свитер.	- No puede ir sin abrigo; ya hay hielo. Puede resfriarse.<br>- No se preocupe, tengo un suéter caliente.
+- Нельзя без пальто; уже мороз. Вы можете простудиться.<br>- Не беспокойтесь, у меня тёплый свитер.	- No puede ir sin abrigo; ya hay hielo. Puede resfriarse.<br>- No se preocupe, tengo un suéter caliente.
 - Свитер не пальто, уже пора шубу надевать.<br>- Я вижу, у вас великолепная шуба.	- Un suéter no es un abrigo. Ya es hora de ponerse la pelliza.<br>- Ya veo, tiene Ud. una pelliza magnífica.
-- Шуда эта уже старая, у меня скоро будет новая.<br>	- Esta pelliza ya está vieja, pronto tendré una nueva.
+- Шуба эта уже старая, у меня скоро будет новая.<br>	- Esta pelliza ya está vieja, pronto tendré una nueva.
 - А вы знаете, не сегодна - завтра будет первый снег.<br>- Да, вы правы: скоро будет снег.	- Pero, sabe, de un día a otro habrá la primera nevada.<br>- Sí, tiene razón, pronto habrá nieve.
 Завтра мне надо выть в Ленинграде.	Mañana debo estar en Leningrado.
 Я думаю, это не проблема. Самолёт летит из Москвы в Ленинград всего один час.	Creo que no es problema. El avión vuela de Moscú a Leningrado en solo una hora.
 - Кстати, у вас уже ест билет?<br>- Нет, у меня ещё нет билета. Я как раз собираюсь идти в кассу и купить там билет.	- A propósito, ¿Ya tiene billete?<br>- No todavía no tengo billete. Justamente tengo intención de ir a la caja y comprar allí el billete.
 - Зачем идти в кассу, если можно позвонить туда по телефону.<br>- Это хорошая идея..<br>	- Por qué ir a la caja si se puede telefonear.<br>- Es una buena idea...
 - Алло! это касса? Мне нужен один билет в Ленинград, на забтра утром.	- ¡Aló! ¿es la caja? necesito un billlete a Leningrado, para mañana por la mañana.
-Когда летит самолёт? В девать? Это удовно.<br>Какое место? Семнадшатое? Хорошо! Сколько стоит билет? Тринадцать рублей? Прекрасно!	¿Cuándo sale el avión? ¿A las nueve? ¡Es cómodo! ¿Qué sitio? El 17? ¡Bien! ¿Cuánto cuesta el billete? ¿Trece rublos? ¡Magnífico!
+Когда летит самолёт? В девять? Это удовно.<br>Какое место? Семнадшатое? Хорошо! Сколько стоит билет? Тринадцать рублей? Прекрасно!	¿Cuándo sale el avión? ¿A las nueve? ¡Es cómodo! ¿Qué sitio? El 17? ¡Bien! ¿Cuánto cuesta el billete? ¿Trece rublos? ¡Magnífico!
 Ну, вот, билет, можно сказать, у меня есть.<br>Теперь надо собрать вещи.	Bueno, ya está, puede decirse que tengo el billete.<br>Ahora tengo que recoger mis cosas.
-- Какой красивый мальчик! Чей это пебёнок, Нина Петровна?<br>- Странный вопрос. Неужем вы не знаете? Это мой сын.	- ¡Qué hermoso muchacho! ¿De quién es este niño, Nina Petrovna?<br>- Extraña pregunta. ¿De verdad no lo sabe? Es mi hijo.
+- Какой красивый мальчик! Чей это ребёнок, Нина Петровна?<br>- Странный вопрос. Неужем вы не знаете? Это мой сын.	- ¡Qué hermoso muchacho! ¿De quién es este niño, Nina Petrovna?<br>- Extraña pregunta. ¿De verdad no lo sabe? Es mi hijo.
 Виноват, мне очень стыдно, но мы так редко с вами встречаемся.	Lo siento ("culpable"), me da mucha vergüenza, pero nos vemos tan raramente.
 Вот уже пять лет, как я путешествую по Европе, живу то в Париже, то в Лондоне.	Hace cinco años que viajo por Europa, vivo a veces en París, a veces en Londres.
 А мы пока всё здесь живём и никуда не ездим.	Y nosotros mientras tanto seguimos viviendo aquí y no vamos a ninguna parte.
@@ -398,7 +398,7 @@ Eё Дядя и тётя дома. Её кот и собака тоже дома
 - Сколько у вас денег?<br>- Сто рублей.	- ¿Cuánto dinero tiene?<br>- Cien rublos.
 - По-русски говорят: - Не имей сто рублей, а имей сто друзей.<br>- Это правильно: лучше иметь сто друзей, чем сто рублей.	- En ruso se dice: - No tengas cien rublos, ten cien amigos.<br>- Es cierto: mejor tener cien amigos que cien rublos.
 Как медленно едет такси! В котором часу идёт поезд в Москву?	¡Qué lento va el taxi! ¿A qué hora sale el tren a Moscú?
-Я уверен, что мы опоздали. Уже пять часов!	Estoy seguro de que vamos retrasado. ¡Ya son las cinco!
+Я уверен, что мы опоздали. Уже пять часов!	Estoy seguro de que vamos retrasados. ¡Ya son las cinco!
 Это ничего, Боря; есть другой поезд в шесть часов.	No importa, Borya; hay otro tren a las seis.
 Ты сам виноват: нельза так долго собирать вещи.	Tú mismo tienes la culpa: no se puede hace el equipaje ("recoger cosas") tanto tiempo.
 Мы ничего не забыли? Бот мой чемодан, вот твоя сумка, мой портфель... Где твой билет?	¿No hemos olvidado nada? Aquí está mi maleta, tu bolso, mi maletín... ¿Dónde está tu billete?
