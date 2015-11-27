@@ -1,5 +1,5 @@
 ноль	cero
-один	uno
+один'	uno
 два	dos
 три	tres
 четыре	cuatro
@@ -7,8 +7,8 @@
 шесть	seis
 семь	siete
 восемь	ocho
-девять	nueve
-десять	diez
+'девять	nueve
+'десять	diez
 сто	cien
 одиннадцать	once
 двенадцать	doce
@@ -19,363 +19,361 @@
 семнадцать	diecisiete
 восемнадцать	dieciocho
 девятнадцать	diecinueve
-тысяча	mil
-миллион<br>миллиард	millón<br>mil millones
+'тысяча	mil
+миллион'<br />миллиард'	millón<br>mil millones
 двадцать, двести	veinte, doscientos
-тридцатъ, триста	treinta, trescientos
-сорок, четыреста	cuarenta, cuatrocientos
-пятьдесят, пятьсот	cincuenta, quinientos
-шестъдесят, шестьсот	sesenta, seiscientos
-семьдесят, семьсот	setenta, setecientos
-восемьдесят, восемьсот	ochenta, ochocientos
-девяносто, девятьсот	noventa, novecientos
+'тридцать,' триста	treinta, trescientos
+'сорок, четыреста	cuarenta, cuatrocientos
+пятьдесят', пятьсот'	cincuenta, quinientos
+шестьдесят', шестьсот'	sesenta, seiscientos
+'семьдесят, семьсот'	setenta, setecientos
+'восемьдесят, восемьсот'	ochenta, ochocientos
+девяносто, девятьсот'	noventa, novecientos
 'город	ciudad
 дом	house
 квартира	apartment
-улица	calle
+'улица	calle
 дорога	camino
 аэропорт	aeropuerto
-вокзал	estación de tren
+вокзал'	estación de tren
 мост	puente
 гости́ница	hotel
-ресторан	restaurante
+ресторан'	restaurante
 животное	animal
 собака	perro
 кот/кошка	gato
-рыба	pez
+'рыба	pez, pescado
 'птица	pájaro
 корова	vaca
-свинья	cerdo
+свинья'	cerdo
 мышь	ratón
-лошадь	caballo
-крыло	ala
-поезд	tren
+'лошадь	caballo
+крыло'	ala
+'поезд	tren
 самолёт	avión
-машина	coche
+машина	coche, máquina
 грузовик'	camión
-велосипед	bicicleta
+велосипед'	bicicleta
 автобус	autobús
-лодка	barca
-корабль	barco
-шина	neumático
-бензин	gasolina
+'лодка	barca
+корабль'	barco
+'шина	neumático
+бензин'	gasolina
 'двигатель<br>	motor
-билет	boleto
- транспорт	transporte
-ферма	granja
+билет'	boleto
+транспорт'	transporte
+'ферма	granja
 двор	patio
 школа	escuela
-офис	oficina
-комната	habitación
-университет	universidad
+'офис	oficina
+'комната	habitación
+университет'	universidad
 клуб	club
 бар	bar
 парк	parque
-лагерь	campamento
-магазин	tienda
-театр	teatro
+'лагерь	campamento
+магазин'	tienda
+театр'	teatro
 библиотека	biblioteca
 больница	hospital
-церковь	iglesia
-рынок	mercado
-страна	país
-здание / строение	edificio
-земля	tierra / suelo
-космос	espacio, cosmos
+'церковь	iglesia
+'рынок	mercado
+страна'	país
+'здание / строение	edificio
+земля'	tierra / suelo
+'космос	espacio, cosmos
 банк	banco
-место	lugar
-шляпа	sombrero
-платье	vestido
-костюм	traje
-юбка	falda
+'место	lugar
+'шляпа	sombrero
+'платье	vestido
+костюм'	traje
+'юбка	falda
 рубашка	camisa
 футболка	camiseta
-брюки	pantalón
-обувь	calzado
+'брюки	pantalones
+'обувь	calzado
 карман'	bolsillo
-пальто	abrigo
-пятно	mancha
+пальто'	abrigo
+пятно'	mancha
 одежда	ropa
-красный	rojo
-зеленый	verde
-синий 	azul (marino)
-голубой	celeste
-желтый	amarillo
+'красный	rojo
+зелёный	verde
+'синий	azul (marino)
+голубой	azul (celeste)
+жёлтый	amarillo
 коричневый	marrón
-розовый	rosado
+'розовый	rosado
 оранжевый	anaranjado
 чёрный	negro
 белый	blanco
-серый	gris
+'серый	gris
 цвет	color
 работа	trabajo
 занятие	empleo / ocupación
-люди	gente
+'люди	gente
 сын	hijo
 дочь	hija
 мать	madre
-отец	padre
+отец'	padre
 родители	padres
-ребёнок (дети)	niño (niños)
+ребёнок ('дети)	niño (niños)
 мужчина	hombre
- женщина	mujer
+'женщина	mujer
 брат	hermano
-сестра	hermana
-семья	familia
-дедушка	abuelo
-бабушка	abuela
+сестра'	hermana
+семья'	familia
+'дедушка	abuelo
+'бабушка	abuela
 муж	marido
-жена	esposa
-король / королева	rey / reina
-президент	presidente
-сосед / соседка	vecino / vecina
-мальчик	niño / muchacho
-девочка	niña
-взрослый	adulto
+жена'	esposa
+король' / королева	rey / reina
+президент'	presidente
+сосед' / соседка	vecino / vecina
+'мальчик	niño / muchacho
+'девочка	niña
+'взрослый	adulto
 друг / подруга	amigo / amiga
 'жертва	víctima
-игрок	jugador
+игрок'	jugador
 болельщик	fan
-толпа	muchedumbre
-человек	persona
+толпа'	muchedumbre
+человек'	persona
 учитель / учительница	maestro / maestra
-студент / судентка	estudiante
-адвокат / юрист	abogado
+студент' / судентка	estudiante
+адвокат' / юрист'	abogado
 врач	médico
-пациент	paciente
-официант / официантка	camarero / camarera
-секретарь	secretario
+пациент'	paciente
+официант' / официантка	camarero / camarera
+секретарь'	secretario
 священник	cura
 поли́ция, полицейский	policía, agente de policía
-армия	ejército
-солдат	soldado
-художник / художница	artista 
-автор	autor
-менеджер	director / manager
-журналист / журналистка	periodista
+'армия	ejército
+солдат'	soldado
+художник / художница	artista
+'автор	autor
+'менеджер	director / manager
+журналист' / журналистка	periodista
 актёр / актриса	actor / actriz
-общество	sociedad
+'общество	sociedad
 религия	religión
-небеса	cielo [religión]
+небеса' / рай	cielo / paraíso
 ад	infierno
 смерть	muerte
 медицина	medicina
 лекарство	fármaco
-деньги	dinero
-доллар	dólar
+'деньги	dinero
+'доллар	dólar
 счёт	cuenta
 брак	matrimonio
-свадьба	boda
+'свадьба	boda
 команда	equipo
-отношения	relación (romántica)
-родство	relación (general)
-раса	raza
+отношения	relación
+'раса	raza
 секс (акт)	sexo (acto)
-пол	sexo (género) [también "suelo"]
+пол	"sexo (género) [también ""suelo""]"
 убийство	asesinato
-тюрьма	cárcel
+тюрьма'	cárcel
 технология	tecnología
- энергия	energía
-война	guerra
+энергия	energía
+война'	guerra
 мир	paz (también mundo)
 нападение	ataque
-выборы	elecciones
-журнал	revista
+'выборы	elecciones
+журнал'	revista
 газета	periódico
 яд	veneno
-пистолет	pistola
+пистолет'	pistola
 ружьё	escopeta
 оружие	arma
 спорт	deporte
-гонки	carrera
+'гонки	carrera
 зарядка	ejercicio (físico)
 мяч	pelota
-игра	juego
-приз / премия	premio
-контракт	contrato
+игра'	juego
+приз / 'премия	premio
+контракт'	contrato
 наркотик	droga
 знак	señal
-наука	ciencia
+'наука	ciencia
 Бог	dios
-группа	grupo (también musical)
-песня	canción
-инструмент	instrumento, herramienta
-музыка	música
+'группа	grupo (también musical)
+'песня	canción
+инструмент'	instrumento, herramienta
+'музыка	música
 фильм	película
 искусство	arte
 напиток	bebida
-кофе	café
+'кофе	café
 чай	té
-вино	vino
-пиво	cerveza
+вино'	vino
+'пиво	cerveza
 сок	zumo
-вода	agua
-молоко	leche
+вода'	agua
+молоко'	leche
 яйцо'	huevo
 сыр	queso
 хлеб	pan
 суп	sopa
 торт	pastel
-курица	pollo
+'курица	pollo
 свинина	carne de cerdo
-говядина	carne de ternera
-яблоко	manzana
-банан	plátano
-апельсин	naranja
-лимон	limón
+говя́дина	carne de ternera
+'яблоко	manzana
+банан'	plátano
+апельсин'	naranja
+лимон'	limón
 кукуруза	maíz
 рис	arroz
-масло	aceite, mantequilla
-мясо	carne
-семя	semilla
+'масло	aceite, mantequilla
+'мясо	carne
+'семя	semilla
 нож	cuchillo
-ложка	cuchara
-вилка	tenedor (también enchufe)
+'ложка	cuchara
+'вилка	tenedor (también enchufe)
 тарелка	plato
-чашка	taza
-завтрак	desayuno
-обед	almuerzo
-ужин	cena
-сахар	azúcar
+'чашка	taza
+'завтрак	desayuno
+обед'	almuerzo
+'ужин	cena
+'сахар	azúcar
 соль	sal
 бутылка	botella
 еда'	comida
 стол	mesa
 стул	silla
-кровать	cama
+кровать'	cama
 сон	sueño
 окно'	ventana
 дверь	puerta
-спальня	dormitorio
-кухня	cocina
+'спальня	dormitorio
+'кухня	cocina
 ванная комната	cuarto de baño
-карандаш	lápiz
-ручка	bolígrafo
+карандаш'	lápiz
+'ручка	bolígrafo
 фотография	fotografía
 'мыло	jabón
-книга	libro
+'книга	libro
 страни́ца	página
 ключ	llave
-краска	pintura
-письмо	carta
+'краска	pintura
+письмо'	carta
 записка	nota
-стена	pared
+стена'	pared
 бумага	papel
-потолок	techo
-крыша	tejado
-бассейн	piscina
-замок	cerradura (también, castillo)
-телефон	teléfono
+потолок'	techo
+'крыша	tejado
+бассейн'	piscina
+замок' / 'замок	cerradura / castillo
+телефон'	teléfono
 сад	jardín
 игла'	aguja
-сумка	bolso
+'сумка	bolso
 коробка	caja
 подарок	regalo
 карточка	tarjeta
-кольцо	anillo
-часы	reloj
-лампа	lámpara
+кольцо'	anillo
+часы'	reloj
+'лампа	lámpara
 вентилятор	ventilador
 мобильный телефон	teléfono móvil
 сеть	red
 компьютер	computadora
 программа	programa
-ноутбук	(computadora) portátil
-экран	pantalla
-камера	cámara
+ноутбук'	(computadora) portátil
+экран'	pantalla
+'камера	cámara
 телевизор	televisor
-радио	radio
-голова	cabeza
-шея	cuello
-лицо	cara
-борода	barba
-волосы	cabellos
-глаза	ojos
+'радио	radio
+голова'	cabeza
+'шея	cuello
+лицо'	cara
+борода'	barba
+'волосы	cabellos
+глаза'	ojos
 рот	boca
-губы	labios
+'губы	labios
 нос	nariz
 зуб	diente
-ухо / уши	oreja / orejas
-слеза / слёзы	lágrima / lágrimas
-язык	lengua
-спина	espalda
-палец	dedo
-нога	pierna
-рука	mano / brazo
-ступня	pie
-плечо	hombro
-сердце	corazón
+'ухо / 'уши	oreja / orejas
+слеза' / слёзы	lágrima / lágrimas
+язык'	lengua
+спина'	espalda
+'палец	dedo
+нога'	pierna
+рука'	mano / brazo
+ступня'	pie
+плечо'	hombro
+'сердце	corazón
 кровь	sangre
 мозг	cerebro
 колено	rodilla
 пот	sudor
-болезнь	enfermedad
+болезнь'	enfermedad
 кость	hueso
-голос	voz
-кожа	piel
-тело	cuerpo
-море	mar
-океан	océano
-река	río
-гора	montaña
+'голос	voz
+'кожа	piel
+'тело	cuerpo
+'море	mar
+океан'	océano
+река'	río
+гора'	montaña
 дождь	lluvia
 снег	nieve
-дерево	árbol, madera
-солнце	sol
-луна / месяц	luna
+'дерево	árbol, madera
+'солнце	sol
+луна' / 'месяц	luna
 лес	bosque
-небо	cielo, firmamento
+'небо	cielo, firmamento
 растение	planta
-ветер	viento
-почва	suelo (tierra)
-цветок / цветы	flor / flores
+'ветер	viento
+'почва	suelo (tierra), base
+цветок' / цветы'	flor / flores
 долина	valle
-корень	raíz
+'корень	raíz
 'озеро / озёра	lago / lagos
-звезда / звезды	estrella
-трава	hierba
+звезда' / звёзды	estrella / estrellas
+трава'	hierba
 лист, 'листья	hoja, hojas
-воздух	aire
-песок	arena
+'воздух	aire
+песок'	arena
 пляж	playa
-волна	ola
-огонь	fuego
+волна'	ola
+огонь'	fuego
 лёд	hielo
-остров / острова	isla / islas
-уклон / склон / наклон	pendiente / ladera / inclinación
-тепло	cálido, calor (buen tiempo)
+'остров / острова'	isla / islas
+уклон' / склон / наклон'	pendiente / ladera / inclinación
 природа	naturaleza
-стекло / стёкла	vidrio / vidrios
-металл	metal
-пластик / пластмасса	plástico
-камень	piedra
+стекло' / стёкла	vidrio / vidrios
+металл'	metal
+'пластик / пластмасса	plástico
+'камень	piedra
 алмаз'	diamante
-глина	arcilla
+'глина	arcilla
 пыль	polvo
-золото	oro
+'золото	oro
 медь	cobre
-серебро	plata
-материал	material
-лето	verano
-весна	primavera
-зима	invierno
-осень	otoño
+серебро'	plata
+материал'	material
+'лето	verano
+весна'	primavera
+зима'	invierno
+'осень	otoño
 время года	estación del año
-мера	medida, límite
-размер	medida, talla, dimensión
+'мера	medida, límite
+размер'	medida, talla, dimensión
 метр	metro
-сантиметр	centímetro
-килограмм / кило	kilogramo / kilo
+сантиметр'	centímetro
+килограмм' / кило'	kilogramo / kilo
 половина	mitad
 круг	círculo
-квадрат	cuadrado
+квадрат'	cuadrado
 температура	temperatura
-число	fecha
+число'	número, fecha
 вес	peso
 край	borde
 угол	esquina
-карта	mapa (también, carta = naipe)
-точка	punto
+'карта	mapa (también, carta = naipe)
+'точка	punto
 согласный	consonante
 гласный	vocal
 свет	luz
@@ -384,13 +382,12 @@
 кусок' / кусочек	trozo, pedazo
 боль	dolor
 поврежде́ние / ране́ние	herida
-отверстие / дыра́ 	agujero
-образ	imagen, forma / modo
+отверстие / дыра́	agujero
+'образ	imagen, forma / modo
 картина	imagen, cuadro, dibujo
 рису́нок	dibujo, patrón, diseño
-рисунок	dibujo, patrón, esbozo
 существительное	sustantivo
-глагол	verbo
+глагол'	verbo
 прилагательное	adjetivo
 направление	dirección
 год	año
@@ -400,57 +397,53 @@
 час	hora
 минута	minuto
 секунда	segundo
-утро	mañana (parte del día)
-вечер	tarde (parte del día)
+'утро	mañana (parte del día)
+'вечер	tarde (parte del día)
 ночь	noche
-время	tiempo
-верхнии	(parte, etc.) de arriba
-нижний	(parte, etc.) de abajo
+'время	tiempo
+'верхний	(parte, etc.) de arriba
+'нижний	(parte, etc.) de abajo
 дно	fondo
-сторона	lado
-север	norte
+сторона'	lado
+'север	norte
 юг	sur
-восток	este
-запад	oeste
-прямо	recto
+восток'	este
+'запад	oeste
+'прямо	recto
 налево	a la izquierda
 направо	a la derecha
-передняя часть	parte de delante
-оборот	reverso
+передний	(parte, ...) de delante
+оборот'	reverso
 зад / тыл	parte de atrás
-снаружи	fuera
-внутри	dentro
-вверх	hacia arriba
-вниз	hacia abajo
 колесо' / колёса	rueda / ruedas
-длинный	largo
+'длинный	largo
 короткий	corto
 высокий	alto
 низкий	bajo
 широкий	ancho
-узкий	estrecho
-большой	grande
-маленький	pequeño
-медленный	lento
-быстрый	rápido
+'узкий	estrecho
+большой'	grande
+'маленький	pequeño
+'медленный	lento
+'быстрый	rápido
 горячий	caliente
-жаркий	caliente (hace calor)
+'жаркий	caliente (hace calor)
 холодный	frío
 тёплый, тепло'	cálido
 похладный	fresco
-новый	nuevo
-старый	viejo
-молодой	joven
+'новый	nuevo
+'старый	viejo
+молодой'	joven
 хороший	bueno
-плохой	malo
-мокрый	mojado
+плохой'	malo
+'мокрый	mojado
 сухой	seco
 больной	enfermo
 здоровый	sano
 громкий	alto (sonido)
 тихий	tranquilo, callado
 счастливый	feliz
-грустный	feliz
+грустный	triste
 красивый	hermoso
 ужа́сный	horrible, espantoso
 глухой	sordo
@@ -478,9 +471,9 @@
 слабый	débil
 мёртвый	muerto
 живой	vivo
-тяжёлый (тяжело)	pesado, duro (de soportar, ...)
-лёгкий	ligero, liviano, fácil
-тёмный (темно)	oscuro
+тяжёлый (тяжело')	pesado, duro (de soportar, ...)
+лёгкий (легко')	ligero, liviano, fácil
+тёмный (темно')	oscuro
 светлый	claro, luminoso
 известный	famoso, conocido
 ядерный	nuclear
@@ -489,24 +482,24 @@
 (по)работать	trabajar
 играть / сыграть	jugar
 (по)гулять	pasear
-бегать	correr (multidireccional)
-(по)бежать, бегу', бежишь', бегут'	correr (unidireccional)
+'бегать	correr (multidireccional)
+(по)бежать', бегу', бежишь', бегут'	correr (unidireccional)
 (по)вести', веду', ведёшь, ведут'<br>(вёл, вела', вело', вели')	conducir (un coche), guiar, llevar (unidireccional)<br>вести себя = comportarse
 водить', вожу', 'водишь, 'водят	conducir (un coche), guiar, llevar (multidireccional)
-(по)ехать, еду, едешь, едут<br>(поезжай', поезжайте)	ir (en vehículo, unidireccional)
-ездить, езжу, ездишь, ездят	(ir, en vehículo, multidireccional)
+(по)'ехать, 'еду, 'едешь, 'едут<br />(imp. поезжай', поезжайте)	ir (en vehículo, unidireccional)
+'ездить, 'езжу, 'ездишь, 'ездят	(ir, en vehículo, multidireccional)
 идти', иду', идёшь, идут' / пойти'<br>(шёл, шла', шло', шли')	ir (a pie, unidireccional)
-ходить', хожу', ходишь, ходят	ir (a pie, multidireccional)
+ходить', хожу', 'ходишь, 'ходят	ir (a pie, multidireccional)
 летать'	volar (multidireccional)
 (по)лететь', лечу', летишь', летят'	volar (unidireccional)
 (по)плыть, плыву', плывёшь, плывут'<br>(плыл, плыла', плыло, плыли)	nadar, navegar (unidireccional)
-плавать	nadar, navegar (multidireccional)
-остана'вливаться / останови'ться, остановлю'сь, остано'вишся, остано'вятся	parar, detenerse
+'плавать	nadar, navegar (multidireccional)
+остана́вливаться / останови́ться, остановлю́сь, остано́вишься, остано́вятся	parar, detenerse
 (по)думать	pensar
-говорить / сказать', скажу', скажешь, скажут	decir, hablar
+говорить' / сказать', скажу', 'скажешь, 'скажут	decir, hablar
 (по)сле'довать	seguir
-(съ)есть, ем, ешь, ест, едим', еди'те, едят'<br>(ел, ела, ело, ели)<br>(ешь, ешьте)	comer
-(вы)пить, пью, пьёшь, пьют<br>(пей, пейте)	beber
+(съ)есть, ем, ешь, ест, едим', еди'те, едят'<br />(ел, ела, ело, ели)<br />(imp. ешь, ешьте)	comer
+(вы)пить, пью, пьёшь, пьют<br />(imp. пей, пейте)	beber
 убивать' / убить', убью', убьёшь, убьют'<br>(убей, убейте)	matar
 умирать' / умереть', умру', умрёшь, умрут'<br>('умер, умерла', 'умерло, 'умерли)	morir
 улыбаться / улыбнуться, улыбнусь', улыбнёшься, улыбнутся	sonreír
@@ -514,15 +507,15 @@
 'плакать, 'плачу, 'плачешь, 'плачут	llorar
 покупать' / купить', куплю', 'купишь, 'купят	comprar
 испо́льзовaть + A / по́льзовaться + I	usar
-'двигать(ся), двигаю/движу, двигаешь/движешь, двигают/движут<br>/<br>двинуть(ся), двину, двинешь, двинут	mover(se)
+'двигать(ся), двигаю/движу, двигаешь/движешь, двигают/движут<br />/<br />'двинуть(ся), двину, двинешь, двинут	mover(se)
 (со)гнуть, гну, гнёшь, гнут	doblar, flexionar, curvar
 давать', даю', даёшь, дают'<br>/<br>дать, дам, дашь, даст, дадим', дадите, дакут'	dar
-(за)платить, плачу', платишь, пратят	pagar
-оставаться, остаюсь', остаёшься, остаются<br>/<br>остаться, останусь, останешься, останутся	quedarse
+(за)платить', плачу', 'платишь, 'платят	pagar
+оставаться, остаюсь', остаёшься, остаются<br />/<br />остать'ся, останусь, останешься, останутся	quedarse
 продавать / продать	vender
 (по)смотреть', смотрю' смотрешь, смотрят	mirar
 стрелять' / стрельнуть', стрельну', стрельнёшь, стрельнут'	disparar
-позволять' / позволить	permitir
+позволять' / позво́лить	permitir
 надевать', надеваю, надеваешь, надевают<br>/<br>надеть', надену, наденешь, наденут	ponerse (ropa, ...)
 снимать'<br>/<br>снять, сниму', снимешь, снимут	quitar, bajar, quitarse (ropas, ...), sacar (una foto), alquilar (casa, ...)
 поднимать / поднять, подниму', поднимешь, поднимут	levantar, elevar, subir (algo)
@@ -530,8 +523,8 @@
 ударять' / ударить	golpear
 'прыгать	saltar, rebotar
 (вы/об/на)учить', учу' 'учишь, 'учат	aprender, enseñar
-'запах	olor ("sentir el olor de" = oler algo)
-вкус	sabor ("sentir el sabor de" = saborear)
+'запах	"olor (""sentir el olor de"" = oler algo)"
+вкус	"sabor (""sentir el sabor de"" = saborear)"
 'пахнуть, 'пахну, 'пахнешь, 'пахнут	oler (emitir olor)
 (по)'слушать	escuchar
 (у)'слышать, 'слышу, 'слышишь, 'слышат	oír
@@ -569,7 +562,7 @@
 застрева́ть / застря́|ть, -ну,-нешь	atascarse (застря́л = atascado, atorado)
 заставля́ть / заста́в|ить, -лю,-ишь	bloquear / obligar, forzar (a hacer algo)
 выи́грывать / вы́играть	ganar, vencer
-получа́ть / пол|учи́ть, -учу́,-у́чишь 	recibir, conseguir, obtener
+получа́ть / пол|учи́ть, -учу́,-у́чишь	recibir, conseguir, obtener
 (по)теря́ть	perder (un objeto)
 прои́грывать / проигра́ть	perder
 (по)меша́ть<br>(с)меша́ть	remover<br>mezclar
@@ -581,7 +574,7 @@
 (na)пи|са́ть, -шу́,-шешь	escribir
 станови́ться, становлю́сь. стано́вишься<br>/<br>стать, ста́ну, ста́нешь	convertirs en, volverse (+ I)
 (с)пря́|тать, -чу,-чешь	esconder
-нахо|ди́ть, нахожу́, нахо́дишь <br>/<br>на|йти́, -йду́,-йдёшь<br>(pt -шёл,-шла́,-шло́) 	encontrar
+нахо|ди́ть, нахожу́, нахо́дишь <br>/<br>на|йти́, -йду́,-йдёшь<br>(pt -шёл,-шла́,-шло́)	encontrar
 'тронут	emocionado
 внитовка	fusil
 (рас)та́ять	derretirse (nieve, mantequilla, ..)
@@ -610,5 +603,9 @@
 вынима́ть / вы́н|уть, -у,-ешь	sacar
 (по)ста́в|ить, -лю,-ишь	poner (posición vertical)
 вставля́ть / вста́в|ить, -лю,-ишь	meter
-кла|сть, -ду́,-дёшь<br>(-л,-ла,-ло)<br>/<br>пол|ожи́ть, -ожу́,-о́жишь 	poner (posición horizontal)
+кла|сть, -ду́,-дёшь<br>(-л,-ла,-ло)<br>/<br>пол|ожи́ть, -ожу́,-о́жишь	poner (posición horizontal)
 бере́менная	embarazada
+Я здесь. Иди сюда.<br>Она там. Иди туда.<br>Он дома. Иди домой.	Estoy aquí. Ven acá.<br>Estoy ahí. Ve allá.<br>Está en casa. Ve a casa.
+Они внизу'. Идите вниз/'снизу.<br />Мы наверху'. Идите наверх'/'сверху.<br />Я 'сзади [позади']. Иди назад'/'сзади.<br />Она впереди'. Иди вперёд/'спереди.	Están debajo. Id abajo/desde abajo.<br>Estamos encima. Id arriba/desde arriba.<br>Estamos detrás. Ve atrás/desde atrás.<br>Ella está delante. Ve adelante/desde delante.
+Он направо. Иди направо. Прийди справа.<div>Она налево. Иди налево. Прийди слева.</div><div>Ты сбоку/в стороне. Иди вбок/в сторону. Прийди сбоку/со стороны.</div>	"<span class=""Apple-tab-span"" style=""white-space: pre""> </span>Él está a la derecha. Ve a la derecha. Ven desde la derecha.<div>Ella está a la izquierda. Ve a la izquierda. Ven desde la izquierda.</div><div>Estás al lado. Ve al lado. Ven desde el lado.</div>"
+<div>внутри' - внутрь - изнутри'</div><div>снаружи - наружу - снаружи</div><div>[= вне - вовне' - извне']</div>	dentro - hacia dentro - desde dentro<div>fuera - hacia afuera, desde fuera</div>

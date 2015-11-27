@@ -1,4 +1,4 @@
-Russian Cyrillic: Ь	ь<br>'<br>(Soft sign)
+﻿Russian Cyrillic: Ь	ь<br>'<br>(Soft sign)
 '<br>(Soft sign)	Russian Cyrillic: Ь<br>ь
 Russian Cyrillic: Н	н<br>N
 N	Russian Cyrillic: Н<br>н
@@ -712,7 +712,7 @@ Eё Дядя и тётя дома. Её кот и собака тоже дома
 Самое/наименее хорошее кафе нашего города находится на ул. Пушкина.	La mejor/(menos buena) cafetería de nuestra ciudad se encuentra en la calle Pushkin.
 Лена наиболее/наименее умная ученица нашего класса.	Lena es la estudiante más/menos inteligente de la  clase.
 Я здесь. Иди сюда.<br>Она там. Иди туда.<br>Он дома. Иди домой.	Estoy aquí. Ven acá.<br>Estoy ahí. Ve allá.<br>Está en casa. Ve a casa.
-Они внизу. Идите вниз/снизу.<br>Мы наверху. Идите наверх/сверху.<br>Я позади. Иди назад/сзади.<br>Она впереди. Иди вперёд/спереди.	Están debajo. Id abajo/desde abajo.<br>Estamos encima. Id arriba/desde arriba.<br>Estamos detrás. Ve atrás/desde atrás.<br>Ella está delante. Ve adelande/desde delante.
+Они внизу. Идите вниз/снизу.<br>Мы наверху. Идите наверх/сверху.<br>Я позади. Иди назад/сзади.<br>Она впереди. Иди вперёд/спереди.	Están debajo. Id abajo/desde abajo.<br>Estamos encima. Id arriba/desde arriba.<br>Estamos detrás. Ve atrás/desde atrás.<br>Ella está delante. Ve adelante/desde delante.
 Доврый день.	Buenos días.
 Доброе утро.	Buenos días.
 Добрый вечер.	Buenas tardes.
