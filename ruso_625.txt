@@ -6,7 +6,7 @@
 пять	cinco
 шесть	seis
 семь	siete
-восемь	ocho
+'восемь	ocho
 'девять	nueve
 'десять	diez
 сто	cien
@@ -21,7 +21,7 @@
 девятнадцать	diecinueve
 'тысяча	mil
 миллион'<br />миллиард'	millón<br>mil millones
-двадцать, двести	veinte, doscientos
+'двадцать, 'двести	veinte, doscientos
 'тридцать,' триста	treinta, trescientos
 'сорок, четыреста	cuarenta, cuatrocientos
 пятьдесят', пятьсот'	cincuenta, quinientos
@@ -34,7 +34,7 @@
 квартира	apartment
 'улица	calle
 дорога	camino
-аэропорт	aeropuerto
+аэропорт'	aeropuerto
 вокзал'	estación de tren
 мост	puente
 гости́ница	hotel
@@ -64,7 +64,7 @@
 транспорт'	transporte
 'ферма	granja
 двор	patio
-школа	escuela
+'школа	escuela
 'офис	oficina
 'комната	habitación
 университет'	universidad
@@ -371,7 +371,7 @@
 число'	número, fecha
 вес	peso
 край	borde
-угол	esquina
+'угол	esquina
 'карта	mapa (también, carta = naipe)
 'точка	punto
 согласный	consonante
@@ -391,7 +391,7 @@
 прилагательное	adjetivo
 направление	dirección
 год	año
-месяц	mes
+'месяц	mes
 неделя	semana
 день	día
 час	hora
@@ -480,8 +480,8 @@
 долгий	largo (tiempo)
 краткий	corto (tiempo)
 (по)работать	trabajar
-играть / сыграть	jugar
-(по)гулять	pasear
+играть' / сыграть'	jugar
+(по)гулять'	pasear
 'бегать	correr (multidireccional)
 (по)бежать', бегу', бежишь', бегут'	correr (unidireccional)
 (по)вести', веду', ведёшь, ведут'<br>(вёл, вела', вело', вели')	conducir (un coche), guiar, llevar (unidireccional)<br>вести себя = comportarse
@@ -495,9 +495,9 @@
 (по)плыть, плыву', плывёшь, плывут'<br>(плыл, плыла', плыло, плыли)	nadar, navegar (unidireccional)
 'плавать	nadar, navegar (multidireccional)
 остана́вливаться / останови́ться, остановлю́сь, остано́вишься, остано́вятся	parar, detenerse
-(по)думать	pensar
+(по)ду́мать	pensar
 говорить' / сказать', скажу', 'скажешь, 'скажут	decir, hablar
-(по)сле'довать	seguir
+(по)сле́довать	seguir
 (съ)есть, ем, ешь, ест, едим', еди'те, едят'<br />(ел, ела, ело, ели)<br />(imp. ешь, ешьте)	comer
 (вы)пить, пью, пьёшь, пьют<br />(imp. пей, пейте)	beber
 убивать' / убить', убью', убьёшь, убьют'<br>(убей, убейте)	matar
@@ -512,7 +512,7 @@
 давать', даю', даёшь, дают'<br>/<br>дать, дам, дашь, даст, дадим', дадите, дакут'	dar
 (за)платить', плачу', 'платишь, 'платят	pagar
 оставаться, остаюсь', остаёшься, остаются<br />/<br />остать'ся, останусь, останешься, останутся	quedarse
-продавать / продать	vender
+продавать' / продать'	vender
 (по)смотреть', смотрю' смотрешь, смотрят	mirar
 стрелять' / стрельнуть', стрельну', стрельнёшь, стрельнут'	disparar
 позволять' / позво́лить	permitir
@@ -533,11 +533,11 @@
 (по)висеть', вишу', висишь', висят'	estar colgado
 'вешать / повесить, повешу, повесишь, повесят	colgar
 (у)'видеть, 'вижу, 'видишь, 'видят	ver
-целовать	besar
+целовать'	besar
 'чувствовать	sentir
 (по)любить', люблю', 'любишь, 'любят	amar
-ложиться, ложусь', ложишся, ложатся<br>/<br>лечь, 'лягу, 'ляжешь, 'лягут<br>(лёг, легла', легло', легли')<br>(ляг, лягте)	tumbarse, yacer, estar echado
-сжигать', сжечь, сожгу', сожжёшь, сожгут'<br>(сжёг, сожгла', сожгло', сожгли')	quemar
+лож|и́ться, -у́сь, -и́шься, -а́тся<br />/<br />лечь, 'лягу, 'ляжешь, 'лягут<br />(лёг, легла', легло', легли')<br />(imp. ляг, лягте)	tumbarse, yacer, estar echado
+сжигать' / сжечь, сожгу', сожжёшь, сожгут'<br />(сжёг, сожгла', сожгло', сожгли')	quemar
 (с)гореть', горю', горишь', горят'	arder
 (по)'резать, 'режу, 'режешь, 'режут	cortar
 танцевать'	bailar
@@ -548,8 +548,8 @@
 (по)сидет', сижу', сидишь', сидят'	estar sentado
 сади́ться, сажу́сь, сади́шься, садя́тся<br>/<br>сесть, ся́ду, ся́дешь, ся́дут	sentarse
 (по)спать, сплю, спишь, спят	dormir
-(с)петь, пою', поёшь, поют'	cantar
-просыпать'ся / проснуть'ся	despertarse
+(с)петь, пою', поёшь, поют'<div>(imp. пой, пойте)</div>	cantar
+просыпа́ться / просн|у́ться, -у́сь, -ёшься,&nbsp;&nbsp;-у́тся	despertarse
 боро́ться, -ю́сь,-ешься, -ются	luchar
 пройти', проехать, ... (мимо + G)	pasar (por delante de...)
 (по)менять'	cambiar
@@ -565,24 +565,24 @@
 получа́ть / пол|учи́ть, -учу́,-у́чишь	recibir, conseguir, obtener
 (по)теря́ть	perder (un objeto)
 прои́грывать / проигра́ть	perder
-(по)меша́ть<br>(с)меша́ть	remover<br>mezclar
-(вы́/по)мыть, мо́ю, мо́ешь	lavar
-(вы́/по)чи́|стить, -щу,-стишь	limpiar
+(по)меша́ть<br />(с)меша́ть	remover, (o estorbar/impedir)<br />mezclar
+(вы́/по)мыть, мо́ю, мо́ешь, мо́ют	lavar
+(вы́/по)чи́|стить, -щу, -стишь, -стят	limpiar
 (при)гото́в|ить, -лю,-ишь	preparar, cocinar
 открыва́ть / откр|ы́ть, -о́ю,-о́ешь	abrir
 закрыва́ть / закр|ы́ть, -о́ю,-о́ешь	cerrar
 (na)пи|са́ть, -шу́,-шешь	escribir
-станови́ться, становлю́сь. стано́вишься<br>/<br>стать, ста́ну, ста́нешь	convertirs en, volverse (+ I)
+станови́ться, становлю́сь. стано́вишься,&nbsp;стано́вятся<br />/<br />стать, ста́ну, ста́нешь,&nbsp;ста́нут	convertirsе en, volverse (+ I)
 (с)пря́|тать, -чу,-чешь	esconder
 нахо|ди́ть, нахожу́, нахо́дишь <br>/<br>на|йти́, -йду́,-йдёшь<br>(pt -шёл,-шла́,-шло́)	encontrar
 'тронут	emocionado
-внитовка	fusil
+винтовка	fusil
 (рас)та́ять	derretirse (nieve, mantequilla, ..)
 (по)звони́ть	telefonear
 (по)звать, зову́, зовёшь, зову́т	llamar
 повора́чивать / поверн|у́ть, -у́,-ёшь	girar (cambiar de dirección)
 (по/вы)стро́ить	construir
-(вы́)раст|и́, -у́,-ёшь<br>(рос,росла́,росло́)	crecer
+(вы́)раст|и́, -у́,-ёшь,&nbsp;-у́т<br />(рос,росла́,росло́)	crecer
 (по)тян|у́ть, -у́,-ешь	tirar de, jalar
 (вы́)тащ|и́ть, -у́,-ишь	arrastrar (unidireccional)
 таска́ть	arrastrar (multidireccional)
@@ -590,22 +590,22 @@
 лов|и́ть, -лю́,-ишь / пойма́ть	atrapar, agarrar
 броса́ть / бро́|сить, -шу,-сишь	lanzar, arrojar
 (с)ломать'(ся)	romper(se)
-быть +I/(при+L)	llevar puesto (ropa, ...)
 подпи́сывать / подп|иса́ть, -ишу́,-и́шешь	firmar
 па́дать / (у)па́сть, паду́, падёшь	caer
 (по)вез|ти́, -у́,-ёшь<br>(вёз,-ла́,-ло́)	llevar (en vehículo, unidireccional)
 во|зи́ть, -жу́,-зишь	llevar (en vehículo, multidireccional)
-нес|ти́, -у́,-ёшь<br>(нёс,-ла́,-ло́)	llevar (a pie, unidireccional)
+нес|ти́, -у́, -ёшь, -у́т<br />(нёс,-ла́,-ло́)	llevar (a pie, unidireccional)
 но|си́ть, -шу́,-сишь	llevar (a pie, multidireccional)
 кача́ть	agitarse, mecerse, vibrar, bombear
-нажима́ть / наж|а́ть, -му́,-мёшь	apretar
+нажима́ть / наж|а́ть, -му́, -мёшь, -му́т	apretar
 толка́ть / толкн|у́ть, -у́,-ёшь	empujar
 вынима́ть / вы́н|уть, -у,-ешь	sacar
 (по)ста́в|ить, -лю,-ишь	poner (posición vertical)
 вставля́ть / вста́в|ить, -лю,-ишь	meter
-кла|сть, -ду́,-дёшь<br>(-л,-ла,-ло)<br>/<br>пол|ожи́ть, -ожу́,-о́жишь	poner (posición horizontal)
+кла|сть, -ду́, -дёшь, ду́т<br />(-л,-ла,-ло)<br />/<br />пол|ожи́ть, -ожу́, -о́жишь, -о́жат	poner (posición horizontal)
 бере́менная	embarazada
 Я здесь. Иди сюда.<br>Она там. Иди туда.<br>Он дома. Иди домой.	Estoy aquí. Ven acá.<br>Estoy ahí. Ve allá.<br>Está en casa. Ve a casa.
 Они внизу'. Идите вниз/'снизу.<br />Мы наверху'. Идите наверх'/'сверху.<br />Я 'сзади [позади']. Иди назад'/'сзади.<br />Она впереди'. Иди вперёд/'спереди.	Están debajo. Id abajo/desde abajo.<br>Estamos encima. Id arriba/desde arriba.<br>Estamos detrás. Ve atrás/desde atrás.<br>Ella está delante. Ve adelante/desde delante.
 Он направо. Иди направо. Прийди справа.<div>Она налево. Иди налево. Прийди слева.</div><div>Ты сбоку/в стороне. Иди вбок/в сторону. Прийди сбоку/со стороны.</div>	"<span class=""Apple-tab-span"" style=""white-space: pre""> </span>Él está a la derecha. Ve a la derecha. Ven desde la derecha.<div>Ella está a la izquierda. Ve a la izquierda. Ven desde la izquierda.</div><div>Estás al lado. Ve al lado. Ven desde el lado.</div>"
 <div>внутри' - внутрь - изнутри'</div><div>снаружи - наружу - снаружи</div><div>[= вне - вовне' - извне']</div>	dentro - hacia dentro - desde dentro<div>fuera - hacia afuera, desde fuera</div>
+вдоль &lt;-&gt; поперёк	a lo largo &lt;-&gt; de través
