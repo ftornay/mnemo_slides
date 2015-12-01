@@ -617,3 +617,4 @@
 'лазить, 'лажу, 'лазишь, 'лазят	trepar (multidireccional)
 ползти', ползу', ползёшь, ползут'<div>(полз, ползла', ползло', ползли')</div>	arrastrarse (unidireccional)
 'ползать	arrastrarse (multidireccional)
+разрушать' / разрушить	destruir
