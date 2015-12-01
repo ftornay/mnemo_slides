@@ -609,3 +609,11 @@
 Он направо. Иди направо. Прийди справа.<div>Она налево. Иди налево. Прийди слева.</div><div>Ты сбоку/в стороне. Иди вбок/в сторону. Прийди сбоку/со стороны.</div>	"<span class=""Apple-tab-span"" style=""white-space: pre""> </span>Él está a la derecha. Ve a la derecha. Ven desde la derecha.<div>Ella está a la izquierda. Ve a la izquierda. Ven desde la izquierda.</div><div>Estás al lado. Ve al lado. Ven desde el lado.</div>"
 <div>внутри' - внутрь - изнутри'</div><div>снаружи - наружу - снаружи</div><div>[= вне - вовне' - извне']</div>	dentro - hacia dentro - desde dentro<div>fuera - hacia afuera, desde fuera</div>
 вдоль &lt;-&gt; поперёк	a lo largo &lt;-&gt; de través
+ка|ти́ть, -чу́, -тишь, -тят	(hacer) rodar (unidireccional)
+ката́ть	(hacer) rodar (multidireccional)
+гнать, гоню́, го́нишь,&nbsp;го́нят	echar, expulsar (unidireccional)
+гонять'	echar, expulsar (multidireccional)
+лезть,&nbsp;ле́зу,&nbsp;ле́зешь,&nbsp;ле́зут<div>(лез, 'лезла, 'лезло, 'лезли)</div>	trepar (unidireccional)
+'лазить, 'лажу, 'лазишь, 'лазят	trepar (multidireccional)
+ползти', ползу', ползёшь, ползут'<div>(полз, ползла', ползло', ползли')</div>	arrastrarse (unidireccional)
+'ползать	arrastrarse (multidireccional)
