@@ -242,7 +242,7 @@
 стол	mesa
 стул	silla
 кровать'	cama
-сон	sueño
+сон / мечта'	sueño (dormir / soñar)
 окно'	ventana
 дверь	puerta
 'спальня	dormitorio
@@ -270,7 +270,7 @@
 'сумка	bolso
 коробка	caja
 подарок	regalo
-карточка	tarjeta
+'карточка	tarjeta
 кольцо'	anillo
 часы'	reloj
 'лампа	lámpara
@@ -498,7 +498,7 @@
 (по)ду́мать	pensar
 говорить' / сказать', скажу', 'скажешь, 'скажут	decir, hablar
 (по)сле́довать	seguir
-(съ)есть, ем, ешь, ест, едим', еди'те, едят'<br />(ел, ела, ело, ели)<br />(imp. ешь, ешьте)	comer
+(съ)есть, ем, ешь, ест, едим', еди'те, едят'<br />(ел, 'ела, 'ело, 'ели)<br />(imp. ешь, ешьте)	comer
 (вы)пить, пью, пьёшь, пьют<br />(imp. пей, пейте)	beber
 убивать' / убить', убью', убьёшь, убьют'<br>(убей, убейте)	matar
 умирать' / умереть', умру', умрёшь, умрут'<br>('умер, умерла', 'умерло, 'умерли)	morir
@@ -565,7 +565,7 @@
 получа́ть / пол|учи́ть, -учу́,-у́чишь	recibir, conseguir, obtener
 (по)теря́ть	perder (un objeto)
 прои́грывать / проигра́ть	perder
-(по)меша́ть<br />(с)меша́ть	remover, (o estorbar/impedir)<br />mezclar
+(по)меша́ть<br />(с)меша́ть	remover (o estorbar/impedir)<br />mezclar
 (вы́/по)мыть, мо́ю, мо́ешь, мо́ют	lavar
 (вы́/по)чи́|стить, -щу, -стишь, -стят	limpiar
 (при)гото́в|ить, -лю,-ишь	preparar, cocinar
@@ -607,7 +607,7 @@
 Я здесь. Иди сюда.<br>Она там. Иди туда.<br>Он дома. Иди домой.	Estoy aquí. Ven acá.<br>Estoy ahí. Ve allá.<br>Está en casa. Ve a casa.
 Они внизу'. Идите вниз/'снизу.<br />Мы наверху'. Идите наверх'/'сверху.<br />Я 'сзади [позади']. Иди назад'/'сзади.<br />Она впереди'. Иди вперёд/'спереди.	Están debajo. Id abajo/desde abajo.<br>Estamos encima. Id arriba/desde arriba.<br>Estamos detrás. Ve atrás/desde atrás.<br>Ella está delante. Ve adelante/desde delante.
 Он направо. Иди направо. Прийди справа.<div>Она налево. Иди налево. Прийди слева.</div><div>Ты сбоку/в стороне. Иди вбок/в сторону. Прийди сбоку/со стороны.</div>	"<span class=""Apple-tab-span"" style=""white-space: pre""> </span>Él está a la derecha. Ve a la derecha. Ven desde la derecha.<div>Ella está a la izquierda. Ve a la izquierda. Ven desde la izquierda.</div><div>Estás al lado. Ve al lado. Ven desde el lado.</div>"
-<div>внутри' - внутрь - изнутри'</div><div>снаружи - наружу - снаружи</div><div>[= вне - вовне' - извне']</div>	dentro - hacia dentro - desde dentro<div>fuera - hacia afuera, desde fuera</div>
+<div>внутри' - внутрь - изнутри'</div><div>снаружи - наружу - снаружи</div><div>[= вне - вовне' (вон) - извне']</div>	dentro - hacia dentro - desde dentro<div>fuera - hacia afuera, desde fuera</div>
 вдоль &lt;-&gt; поперёк	a lo largo &lt;-&gt; de través
 ка|ти́ть, -чу́, -тишь, -тят	(hacer) rodar (unidireccional)
 ката́ть	(hacer) rodar (multidireccional)
