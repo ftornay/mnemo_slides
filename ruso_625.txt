@@ -216,7 +216,7 @@
 суп	sopa
 торт	pastel
 'курица	pollo
-свинина	carne de cerdo
+свини́на	carne de cerdo
 говя́дина	carne de ternera
 'яблоко	manzana
 банан'	plátano
@@ -410,8 +410,6 @@
 восток'	este
 'запад	oeste
 'прямо	recto
-налево	a la izquierda
-направо	a la derecha
 передний	(parte, ...) de delante
 оборот'	reverso
 зад / тыл	parte de atrás
@@ -519,7 +517,7 @@
 надевать', надеваю, надеваешь, надевают<br>/<br>надеть', надену, наденешь, наденут	ponerse (ropa, ...)
 снимать'<br>/<br>снять, сниму', снимешь, снимут	quitar, bajar, quitarse (ropas, ...), sacar (una foto), alquilar (casa, ...)
 поднимать / поднять, подниму', поднимешь, поднимут	levantar, elevar, subir (algo)
-бить, бью, бьёшь, бьют<br>(бей, бейте)	pegar
+бить, бью, бьёшь, бьют<br />(imp. бей, бейте)	pegar
 ударять' / ударить	golpear
 'прыгать	saltar, rebotar
 (вы/об/на)учить', учу' 'учишь, 'учат	aprender, enseñar
