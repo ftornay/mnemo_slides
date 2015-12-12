@@ -381,7 +381,7 @@
 шум	ruido
 кусок' / кусочек	trozo, pedazo
 боль	dolor
-поврежде́ние / ране́ние	herida
+'рана	herida
 отверстие / дыра́	agujero
 'образ	imagen, forma / modo
 картина	imagen, cuadro, dibujo
@@ -594,7 +594,7 @@
 во|зи́ть, -жу́,-зишь	llevar (en vehículo, multidireccional)
 нес|ти́, -у́, -ёшь, -у́т<br />(нёс,-ла́,-ло́)	llevar (a pie, unidireccional)
 но|си́ть, -шу́,-сишь	llevar (a pie, multidireccional)
-кача́ть	agitarse, mecerse, vibrar, bombear
+кача́ть	agitar, mecer, vibrar, bombear
 нажима́ть / наж|а́ть, -му́, -мёшь, -му́т	apretar
 толка́ть / толкн|у́ть, -у́,-ёшь	empujar
 вынима́ть / вы́н|уть, -у,-ешь	sacar
